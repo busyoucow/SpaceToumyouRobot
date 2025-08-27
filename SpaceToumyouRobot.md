@@ -112,6 +112,49 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 # 実際におはな！…じゃなくて豆苗を栽培してみよう
 ドクダミの花ではなく美味しく食べられる豆苗を栽培ロボット管理のもと栽培していく。
 
+<img alt="picture 10" src="images/09b8ad172ebd51098c9a343b55a38a9624ec530a93cea5ca2dc0d465f6e4227b.jpg" width="200" />  
+前回同様、豆苗を買ってくる。最近は値上げこそしないが閉店間際には売り切れることも少なくない。
+
+<img alt="picture 11" src="images/38cdbfc7821928a1898c0a7ef4f634c1f7fc5bdd6bfc04c6a65b947e7a46fe5b.jpg" width="200" />  
+元気に生えている苗を
+
+<img alt="picture 12" src="images/bd03b4f328fadc8bc08c73cc5c6b5b8cc1404092d9571894faa1520f5711dae6.jpg" width="200" />  
+根の部分から二つに分ける
+
+<img alt="picture 13" src="images/e10a461de5da0ccff55f8465c0f8bfe9e860ee3ebadcfcb68c297e698607617a.jpg" width="200" />  
+上部を切り取り
+
+<img alt="picture 14" src="images/eea70c4b03c63c7b72ef5d67ecf14d65248d6ead28646496f2427adcc9a256a3.jpg" width="200" />  
+排水口ネットをつけて小分けにする
+
+<img alt="picture 15" src="images/2e1d63019f88f60db03cc907134050092690072d9e0518e87cc70b331f425a13.jpg" width="200" />  
+今回はメンバー間でフィードバックした麦飯石を敷いてみる
+
+<img alt="picture 16" src="images/30bf9f076beaace1396d892bd3fbb952e5150acae6e91b9b41c2a744aa9c07e2.jpg" width="200" />  
+これで水質が改善されるとよいのだが
+
+<img alt="picture 17" src="images/e16df1bc56066b7a342aeb10beef9f2e35e4d361dc99dbff85b794f0f06d5041.jpg" width="200" />  
+苗を一つ置くがスペースはまだあるので
+
+<img alt="picture 18" src="images/00cffab30e8a94a5ae81641e7b1118d18b4bbed27069c211b2d6f1b6fb730648.jpg" width="200" />  
+切り分けたもう一つも排水口ネットをかけて
+
+<img alt="picture 19" src="images/dc3d64d496b3aa67454c82d92f8ee9479f185df2d23f929087cee8267d466443.jpg" width="200" />  
+水と共に瓶の中に入れると瓶はいっぱいになる
+
+<img alt="picture 20" src="images/e3fc37d7805f3ed483721b6941073bc6a329bbff49eb3537ea06f428915e2988.jpg" width="200" />  
+瓶の口にも排水口ネットをつけて輪ゴムで留め防虫対策とする
+
+<img alt="picture 21" src="images/98bae837fc7ff85ffa2ff759640fda0c85d2839bf70ac4401225b2bf23331a4f.jpg" width="200" />  
+今回もエアーポンプで常時空気を水に含ませる
+
+<img alt="picture 22" src="images/4927de86e15f134dad6097d60c06bdc5d5762d9561011bde59819b7d5b971c79.jpg" width="200" />  
+エアーポンプは今夜から常時稼働させておく
+
+<img alt="picture 23" src="images/89e365ce455b79c17d21d7bc92a2189e5552984012861508d363738ac9f771ca.jpg" width="200" />  
+今回切除した茎と葉は調理して頂くとしよう
+
+
 # 豆苗の運命
 液肥を付加しているとはいえ豆苗の根が持つ生命力と豆部分の栄養素に頼っているため、いつかは再生できずに腐ってしまう。
 
@@ -125,3 +168,5 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 失敗から学び一つ抜けられるか。
 
 世界線は常に移動している。
+
+# 引用資料
