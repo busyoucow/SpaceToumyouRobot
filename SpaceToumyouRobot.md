@@ -1,5 +1,5 @@
 ---
-title: 宇宙栽培試行のための栽培ロボット活用及び配管組み上げと植物栽培記録
+title: 宇宙栽培試行のための栽培システム試運転と植物栽培記録
 tags: 宇宙開発
 author: busyoucow
 slide: false
@@ -61,6 +61,10 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 # 前回のあらすじ
 
+宇宙栽培試行のための閉鎖空間内豆苗栽培と栽培ロボット運用記
+(https://github.com/busyoucow/SpaceToumyou)
+に記載されているが
+
 豆苗を買ってきて
 
 <img alt="picture 0" src="images/746ec752ec1f2e1c4aad9d4d3c9e5f480c436fd5ec44c12ad5d78c4aad54fad7.jpg" width="200" />  
@@ -98,7 +102,11 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 食事の確保は人間の幸福に関して大きな比重を占めるのは否定できないであろう。
 そこで、実践が比較的簡易な植物栽培システムを稼働させ実証実験するものとする。
 上記の写真は以前行われたイベント「オープンハードカンファレンス」にて実稼働ではないが栽培ロボット動作デモを行った際のものである。
-詳細は (https://github.com/busyoucow/SpaceRobotFarmTest01) に掲載されているため興味があれば参照して欲しい。
+
+詳細は
+宇宙栽培試行のための栽培ロボット起動及び構造物と配管組み上げ記録
+  (https://github.com/busyoucow/SpaceRobotFarmTest01) 
+ に掲載されているため興味があれば参照して欲しい。
 
 
 # 必要なひみつ道具を組み立てる
@@ -361,3 +369,8 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 # 引用資料
 
 タコピーの原罪　https://www.tbs.co.jp/anime/takopi_project/
+
+busyoucow,「宇宙栽培試行のための発芽試験記録」Journal of SpaceFarm Vol.2 2025-1, 秘密結社オープンフォース, 2025
+
+https://github.com/busyoucow/SpaceToumyou/
+
