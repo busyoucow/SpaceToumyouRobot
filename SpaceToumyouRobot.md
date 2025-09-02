@@ -359,3 +359,5 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 世界線は常に移動している。
 
 # 引用資料
+
+タコピーの原罪　https://www.tbs.co.jp/anime/takopi_project/
