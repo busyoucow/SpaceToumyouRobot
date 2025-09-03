@@ -100,19 +100,31 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 ハッピーになるにはまず食事からと考えるッピ。…もとい、
 
 食事の確保は人間の幸福に関して大きな比重を占めるのは否定できないであろう。
-そこで、実践が比較的簡易な植物栽培システムを稼働させ実証実験するものとする。
+
+そこで、実践が比較的容易な簡易的植物栽培システムを稼働させ実証実験するものとする。
+
+また、これにより数日間離室した際に栽培中の苗を寿命延命できるか試行し検証するものとする。
+
 上記の写真は以前行われたイベント「オープンハードカンファレンス」にて実稼働ではないが栽培ロボット動作デモを行った際のものである。
 
 詳細は
+
 宇宙栽培試行のための栽培ロボット起動及び構造物と配管組み上げ記録
   (https://github.com/busyoucow/SpaceRobotFarmTest01) 
+
  に掲載されているため興味があれば参照して欲しい。
 
 
-# 必要なひみつ道具を組み立てる
+# 必要なひみつ道具設置機材を組み立てる
 アニメや漫画ではないのですぐ使える状態のセットが販売されているものではない。
 しかし、使用する部材の大部分は100円ショップのダイソーで入手できる。
-詳細は上記 (https://github.com/busyoucow/SpaceRobotFarmTest01) に記載されている
+詳細は上記 (https://github.com/busyoucow/SpaceRobotFarmTest01) に記載されているが…
+
+ちゃんと機材リストをここにも記載するっピ。
+
+## 必要な部材リスト
+
+## 組み立ててみる
 
 <img alt="picture 53" src="images/621a29899b846d9d530bb8cdc65802e57a74425df84f4375efcf1dbeca74d867.jpg" width="200" />  
 
@@ -120,9 +132,20 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 <img alt="picture 54" src="images/8319e6c6dcc509a27e0f2e97807d72e2b242c71bf85987067f7031822540d8fc.jpg" width="200" />  
 
-ピンクの栽培瓶を置いてみる。この後下段奥には給水ボトルと排水ボトルが格納されたプラスチックケースを置き、メンテナンスがしやすいよう上段には栽培ロボットを置く予定である。
+ピンクの栽培瓶を置いてみる。この後下段奥には給水ボトルと排水ボトルが格納されたプラスチックケースを置き、メンテナンスがしやすいよう上段には栽培ロボットを置く予定であった。
+
+## スペースとの兼ね合いにより部材をコンパクトに
+しかし、この実験は筆者の狭いワンルームにて行われている都合上部材によって部屋スペースが圧迫されて不都合が生じていた。
+そこでもう少しコンパクトな部材を取り寄せて実験途中に間に合ったため、開始4日経過時点で組みなおすこととした。
+部材の変更は以下の通りである。
+
+
+# そして、ひみつ道具登場
 
 そしてこれが総統より供与されたひみつ道具。栽培ロボットである。
+
+栽培ロボットをインストール 1st
+(https://qiita.com/nanbuwks/items/37bffef16036937eecc3) 
 
 <img alt="picture 56" src="images/3806ddd1e16cf5fb9d634d5f833d5303066573c5d5e9f8be48f286d0d675208f.jpg" width="200" />  
 
@@ -196,7 +219,7 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 <img alt="picture 15" src="images/2e1d63019f88f60db03cc907134050092690072d9e0518e87cc70b331f425a13.jpg" width="200" />  
 
-今回はメンバー間でフィードバックにより知った麦飯石を敷いてみる
+今回はメンバー間フィードバックにより知った麦飯石を敷いてみる
 
 <img alt="picture 16" src="images/30bf9f076beaace1396d892bd3fbb952e5150acae6e91b9b41c2a744aa9c07e2.jpg" width="200" />  
 
@@ -231,12 +254,14 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 今回切除した茎と葉は調理して頂くとしよう
 
 # ひみつ道具の導入
-そしてこの後、家を４日空ける必要に迫られた。今こそひみつ道具…もとい栽培ロボットを実際の栽培で稼働する好機である。
+そしてこの後、家を４日空ける必要に迫られた。
+
+今こそひみつ道具…もとい栽培ロボットを実際の栽培で稼働する好機である。
 記憶が世界線の海に没する前に、設置する過程をここに記すものとする。
 
 <img alt="picture 24" src="images/fa5465fc26984af1e0f61ca06d00ec43d95cc415927af736ec9366087f3fb8df.jpg" width="200" />  
 
-まずは栽培ロボットを用意して
+まずは栽培ロボットを用意する。
 
 <img alt="picture 25" src="images/035d58160d3cceb34a942a67b94d95d2a453fa92cb5c68fbb9a187c0d5d26534.jpg" width="200" />  
 
@@ -257,6 +282,7 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 <img alt="picture 29" src="images/3d838d3bc937fd1fecaa5e467734577a8020fb2747a85365fb0f546ef3176d7c.jpg" width="200" />  
 
 事前にプログラムを変更し、午前６時半になるかボタンが押されたらまず栽培瓶から排水を8秒間行う。
+
 その後栽培瓶へ8秒間給水を行う。最後に60秒待ち6時半に稼働した際に連続して動作するのを防ぐ。
 
 <img alt="picture 30" src="images/6435ab75be1518900ba4c6e1b073a138e8db312997f9ab0406593c3e29ad4409.jpg" width="200" />  
@@ -355,9 +381,112 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 # 豆苗の運命
 液肥を付加しているとはいえ豆苗の根が持つ生命力と豆部分の栄養素に頼っているため、いつかは再生できずに腐ってしまう。
 
+今回はどうなっただろうか。
+
+<img alt="picture 61" src="images/c132122edb12b93987eda1518459faa4564cf7f4da524eeb6ac7e8f6296b8827.jpg" width="200" />  
+
+家を空ける日数が5日に伸びてしまったが、栽培ロボットは順調に動いているようだ。
+
+<img alt="picture 62" src="images/934c5de5bd4a93d0c1f9de07693052f66f182c6d094c06c79efb8d01002a2bb8.jpg" width="200" />  
+
+<img alt="picture 63" src="images/8c247ce0f336f56b690bedbaf842c2fd5aa54bd3724ad49be06fb492fe28bbe1.jpg" width="200" />  
+
+<img alt="picture 64" src="images/c23477e49e3d476d5b7339ab7217d5ebb5b977811deabd3f74f0c6ca70c05f92.jpg" width="200" />  
+
+<img alt="picture 65" src="images/1f87770eae3c1353b7e00fbe4ed894a0fd83e97aeeeaa4ea84d2a5cf36bddf2f.jpg" width="200" />  
+
+<img alt="picture 66" src="images/c92acddfd9896b6cf15b409f70fb9ea4473fdad5c12feb39f7a14acca24380e9.jpg" width="200" />  
+
+<img alt="picture 67" src="images/dfdf2049a0d9b8359b6ddf037e5694d366d2f18f637054197caa427e16f68ec4.jpg" width="200" />  
+
+<img alt="picture 68" src="images/99f3df15b96e57e08611fc27c6f7f6a9f720e9aa066cb2ace0ea1b14fc1711ed.jpg" width="200" />  
+
+<img alt="picture 69" src="images/584dd6c53e51fbb79ba2ff3b6f76d3fbf59b9a1e2ade0b2edf963c7dde7dea83.jpg" width="200" />  
+
+<img alt="picture 70" src="images/41dee1a5660a13c6620241b71703d34051bbc5ea24a2330b439218a87250af0d.jpg" width="200" />  
+
+このタイミングでメタルラックを45x25サイズのものから29x29サイズのものへ変更する。
+45x25サイズのものはイベント展示用に再利用する事とする。
+
+<img alt="picture 71" src="images/52aea40f94bda30e46437fb0e1303375bb0ababdfb9fffcd6045a71887a0f4c8.jpg" width="200" />  
+
+メタルラックを交換して翌朝。栽培ロボットも6時半にはちゃんと稼働していた。
+
+<img alt="picture 72" src="images/a3af1bf249b29d16460b889263ad1f425f3b51e36877dda52622b70cf4767fb3.jpg" width="200" />  
+
+このタイミングにて栽培瓶を含めた水を全交換する。
+
+<img alt="picture 73" src="images/daa2e0771508b3b129e85618d594f3d4ec63b70e8029eb562a09a7afd4996efe.jpg" width="200" />  
+
+メタルラック交換時に排水瓶の水をこぼしてしまったため少なくなっているが、ここからポンプとチューブ内の水抜きのために栽培ロボットのボタンを押して何度か稼働させる事とする。
+
+<img alt="picture 74" src="images/e9d55496f794dfe85b75a74977a27300017fcfd2dc7e8db17902d4c75f747387.jpg" width="200" />  
+
+左から栽培瓶側排水チューブ、栽培瓶側給水チューブ（緩めたミストノズル付き）、排水瓶側排水チューブ、給水瓶側給水チューブ（ストーンつき）
+
+この状態から空気が出てくるまで何回か栽培ロボットのボタンを押して稼働させ水をプラスチックケース内へ排出する。
+
+<img alt="picture 75" src="images/49d4dccefef3aeb6f169cce61a225ab7bc537dbbf67ed49bce30493822ef8550.jpg" width="200" />  
+
+<img alt="picture 76" src="images/d653bc95c746b1920381c91dbd55ca30206f72306f4b81c51910e76f801d25e5.jpg" width="200" />  
+
+<img alt="picture 77" src="images/2f79df5a642158c4dbfb4e7326dcdb21e0e8d8ce8e5787c29c84c8f8a5667c09.jpg" width="200" />  
+
+<img alt="picture 78" src="images/b170fed14b3c1b11b9cd4dbd89bf07e9d066309fd6a7a9140e7f5ee87b07de6d.jpg" width="200" />  
+
+<img alt="picture 79" src="images/466c7aec5805879ffc66435ee07b79f61c9271953ff71d715d8d07e28ba1991d.jpg" width="200" />  
+
+<img alt="picture 80" src="images/f3d46742efca1b0bbdf3f1725011f11c737e84837c504231d60e683bbf7252bf.jpg" width="200" />  
+
+<img alt="picture 81" src="images/01c6dc4b8dc3fcf0a7968d13871dd79eb2241198a1fb71b4f3d05f3041ff3ede.jpg" width="200" />  
+
+<img alt="picture 82" src="images/ce374978a4b77fbe1358b42185c698bcb1088e6dd3012829c693991db664eb54.jpg" width="200" />  
+
+<img alt="picture 83" src="images/12ec280b04a951cb05b75eaab26b401ef1ca5ba748670853aadf1bc8a0379e5d.jpg" width="200" />  
+
+<img alt="picture 84" src="images/2b8b1c4b7fb2ac84258fafd6111590ade6cde5a57fe16c065dd50540436f8665.jpg" width="200" />  
+
+<img alt="picture 85" src="images/9f59d32c8b4f3a61b3d3039ac273aab0903e9f81131220615aed1eeb729b9b38.jpg" width="200" />  
+
+<img alt="picture 86" src="images/687a34d2fb93f5a149591a33d2eee67f3794ba71150bd15001c85f66aa3af075.jpg" width="200" />  
+
+<img alt="picture 87" src="images/cce6dac330afb63d9cdf2842bf7601243c8add7a919d8310d5d1f2a882969b9d.jpg" width="200" />  
+
+<img alt="picture 88" src="images/5ff108a3c4c714fc8bac13aa50b25d0e8daf79575eb27b8c570e5e343e82b4e7.jpg" width="200" />  
+
+<img alt="picture 89" src="images/e1a1050f9ce3b5d5c86a56351e4a7c03bb0a27caf65cb0cccc80a6b33817266e.jpg" width="200" />  
+
+<img alt="picture 90" src="images/fcbd7f3618f83dbbf75e25cbe6bde83dd09b70a9b0bee043f6dfac4637617da9.jpg" width="200" />  
+
+<img alt="picture 91" src="images/1c8833ff5f12bb8ed1516aa03dd4e24359c3b2686534512fb6f06a2671b1b2ec.jpg" width="200" />  
+
+<img alt="picture 92" src="images/f8a68d12cfb1490fb998b99089291b3032e1b4135f6cd1bd94dc9d761c74fb9f.jpg" width="200" />  
+
+ここからまた3日間家を空けるため、その間も安定稼働することを祈ろう。
+
 # 栽培ロボット未使用時とどう変わったか
+前回の栽培ロボット未使用にて豆苗を栽培した際は、4～5月だったため室温が25度程度とそれほど上がっていなかった。
+
+しかし今回は時期を見たとはいえ8月末から9月にかけて栽培を行ったため、猛暑により離室時の室温が30度を超えたのは事実である。
+
+そのためか切り口の変色が速くなった可能性がある。
+
+<img alt="picture 93" src="images/40635fad96ff080606aa9e242060731f16846f9ec1facb8bb4fc6ae836ef5c62.jpg" width="200" />  
+
+こちらは前回栽培した時に7日経過したもの。株切り口の変色は始まっているもののまだ青さを残している。
+
+<img alt="picture 80" src="images/f3d46742efca1b0bbdf3f1725011f11c737e84837c504231d60e683bbf7252bf.jpg" width="200" />  
+
+こちらは前出した今回栽培した5日＋1日で6日経過したもの。株切り口が明らかに茶色く染まっている。成長も遅いようだ。
+
+このことにより、栽培ロボットを入れ水環境は改善したにもかかわらず室温上昇により豆苗の苗が弱っていると考えられる。
 
 # 時は戻せない。だから腐る前に対策を
+
+今回は栽培ロボットを使用して長期の離室に耐えられるか検証してみた。
+しかし水環境よりも高温障害のほうが影響が大きいのではないかという所感を得た。
+
+今後は室温が同程度の環境になるまで豆苗の苗を何度か使用し影響を検証していこうと考える。
 
 # まとめ　～2025年の君たちへ
 いつか、「あの頃は～」みたいに語られる日が来るかもしれない。
@@ -373,4 +502,10 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 busyoucow,「宇宙栽培試行のための発芽試験記録」Journal of SpaceFarm Vol.2 2025-1, 秘密結社オープンフォース, 2025
 
 https://github.com/busyoucow/SpaceToumyou/
+
+busyoucow,「宇宙栽培試行のための栽培ロボット起動及び構造物と配管組み上げ記録」
+  (https://github.com/busyoucow/SpaceRobotFarmTest01) 
+
+nanbuwks, 栽培ロボットをインストール 1st
+https://qiita.com/nanbuwks/items/37bffef16036937eecc3 
 
