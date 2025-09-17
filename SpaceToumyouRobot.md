@@ -654,7 +654,111 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 ダイソーフリーマルチネットは奥に吸い込まれるような錯覚を覚える。
 
+<img alt="picture 120" src="images/d680ea3e106cb75aee3cb89c254f3a43f0e119b992845781158d2809f0190b84.jpg" width="200" />  
 
+ダイソーアタッシュケースは穴あけ加工済みのものが供与された。以前出展したオープンハードカンファレンスで総統に黒いファイルケースを渡したらカッターナイフで ~~裂け目~~ 穴？を空けていた時から大きく改善されている。
+
+<img alt="picture 121" src="images/c4baaac99b21c800c9206802e158ef5bc111c8d4fb57df0d46eef2102b59bcfb.jpg" width="200" />  
+
+ACケーブルには間にスイッチが付いている。けしてACアダプタではないため、差し込み端子およびテープで保護されている接続部にはAC100Vが流れている。取り扱いには慎重を期されたい。
+
+<img alt="picture 122" src="images/c8a235479d5eaffce3e949d85f8f75e7438184f33b0d644e88a08c8ff2fe09a7.jpg" width="200" />  
+
+LED照明ユニットは4本使用する。しかしそのままACケーブルとは接続できないため…
+
+<img alt="picture 123" src="images/57566d15e6bead22267280250b4ef33d9cb76d8f01849ced9592ed9e4d1aafee.jpg" width="200" />  
+
+こちらのソケットを使用する。一つのソケットには三つの差込口がありLED照明ユニットとACケーブルを接続する。ソケットは4つありコードで繋がっている。
+
+<img alt="picture 125" src="images/ef646e75459de58e2b275667a6248d0c93fa850e4451da39dbd77e591b60351a.jpg" width="200" />  
+
+接続するとこんな感じである。ソケットの端子はAC100Vが流れるため触れないよう注意されたい。
+
+<img alt="picture 126" src="images/19d8f232ceac81336050a03437eb0ed35bc46d6cd7e45bf2d3b970dc313f8359.jpg" width="200" />  
+
+光らせてみた。形状的に振り回したくなるがAC100Vなのでくれぐれも取り扱いには注意されたい。振り回すなどもってのほか！
+
+<img alt="picture 124" src="images/b27a330539127398243a9d137c99317a73eca2094995eeddfab9b3f1d343a69a.jpg" width="200" />  
+
+ダイソージョイントラック用延長ポール38cmを4本、メタルラックのポールに繋げてポールを長くする。
+
+<img alt="picture 127" src="images/2a24f97d4a296368662e5aa2844b2cc04bf8336e952e7e3ed65e35bc6e4585af.jpg" width="200" />  
+
+同時に栽培瓶の中を確認して水も変えることにする。
+
+<img alt="picture 128" src="images/a8f67fc57d23b55b820a7ca87e5b69f8a48e98695b04988bad792e7d99e06809.jpg" width="200" />  
+
+<img alt="picture 129" src="images/126941028d97c336a39fe3d4f0ab4910d2366a754a8c9c3b79833e11005a864c.jpg" width="200" />  
+
+<img alt="picture 130" src="images/b7eb472816aa5031ec406586e1487b979426cc2ad5c9571b1f2ea6e30d03b844.jpg" width="200" />  
+
+<img alt="picture 131" src="images/a9771893375e01e3e15c5270e933837e99c6adc43feebd9891678486c2e1f4e4.jpg" width="200" />  
+
+<img alt="picture 132" src="images/e3a63d69d8a638e2cdee1e95b89be0bb9904c89d0330b716ad75b0b3248c6717.jpg" width="200" />  
+
+<img alt="picture 133" src="images/3cd96b850e3341e3a9c85f9cf94691972d5b882e47573fec76fd6e4dc86f7efa.jpg" width="200" />  
+
+<img alt="picture 134" src="images/0f82142f85b4aa656c42bda9aae1cbeef39d4100846fc1fd9322d38abee5be4c.jpg" width="200" />  
+
+<img alt="picture 135" src="images/12b590afe3ae5250d17454628a0c1083abbf128e3db19c3ed265ec7a5387add7.jpg" width="200" />  
+
+<img alt="picture 136" src="images/d9f77e8e2ffb93e8d225546d0cec9b506493aa85163256ac80a9e4d4e8b81ee1.jpg" width="200" />  
+
+<img alt="picture 101" src="images/c6c052aebe2e4564640b1a758627bbe8fc2a15f267e0b547e68110cbff61bcfe.jpg" width="200" />  
+
+<img alt="picture 137" src="images/5b8d8afbb948faf81fbcbae7e19961ee3f2c5970dcb529b108a4825ef35af0ad.jpg" width="200" />  
+
+<img alt="picture 138" src="images/49cc63ca6106128042aeb325b53ee7b732f821503305202b12c1b1598e0408eb.jpg" width="200" />  
+
+<img alt="picture 139" src="images/b4777051e4669e75399129e84afb173593ebe4f72bc443cf97ef8e9825a704a8.jpg" width="200" />  
+
+<img alt="picture 140" src="images/89f7bc00652bb091d9ce088ac8cdbda6382b1d838c5f3fec08f83c0035dac07f.jpg" width="200" />  
+
+<img alt="picture 141" src="images/cf01dbced38933638476830fc15ec0b2bf1db91d59aadb191613713da5f53715.jpg" width="200" />  
+
+<img alt="picture 142" src="images/e823249526a3df96818462cc8f25ca4ccff03509b16be5c65ecb30353502ee77.jpg" width="200" />  
+
+<img alt="picture 143" src="images/4ccc99411afc8bd563a3fc27bc0394cce106bc8e58a946e7c5a6fc3ae31bea3d.jpg" width="200" />  
+
+<img alt="picture 144" src="images/5d59beadda646585da56e5c3151660b5192e9ce8fc669c1effdb5b4ecb0bb0c3.jpg" width="200" />  
+
+<img alt="picture 145" src="images/a252e58b57749406d4e7b4b6db87b45ab87ca4608585a91f8063bc51dc605192.jpg" width="200" />  
+
+<img alt="picture 146" src="images/f47cf8a583495bc94579afdb691ace3bf444aec7f637b77db689ae291e3b0c03.jpg" width="200" />  
+
+<img alt="picture 147" src="images/852edc167c7c3b8b195162d2f745991c947cbada3d61e98c494181cf47fafdda.jpg" width="200" />  
+
+<img alt="picture 148" src="images/828bf5d329f6ea71a14c1744e0aad9821f0403c48a03396fe63be73cb14fbc58.jpg" width="200" />  
+
+<img alt="picture 149" src="images/7300a681a01519d733039de161f6efc9e40be970ff178c2dba480c51f113cafc.jpg" width="200" />  
+
+<img alt="picture 150" src="images/8247adeeccef536e95a6d6dea1a3b03700c0d9ceb1cfcfbffef6c0ae34bde73a.jpg" width="200" />  
+
+<img alt="picture 151" src="images/8fbd27b5d7ef4f793fd22a381fcd7cb92cc484192dc553bd4d92be4d3adb4023.jpg" width="200" />  
+
+<img alt="picture 152" src="images/778dca8f70940efa5919a83901a9b83e1a0058b960d9bf58e2f6b3f8eba46f82.jpg" width="200" />  
+
+<img alt="picture 153" src="images/417dd77e321262b653dbeef01bbecb4d84ca05f7525ad6c70160af5e0533f0a0.jpg" width="200" />  
+
+<img alt="picture 154" src="images/1a5574d8c6e3af278ceb8fe3762224576a642c2f418e58d143b10ed37454d836.jpg" width="200" />  
+
+<img alt="picture 155" src="images/598d851e9ff7ad80fb37b8954a33f62057e3cb9012545b8f74d4284fb885ba39.jpg" width="200" />  
+
+<img alt="picture 156" src="images/d885c2782b055e332567bc9d1a19ec93625a175688806d2465e20893dd93f36b.jpg" width="200" />  
+
+<img alt="picture 157" src="images/564977bd5294f11705e89185e47bf3f2e1a4a58ae326c7babbc50e7696aee2aa.jpg" width="200" />  
+
+<img alt="picture 158" src="images/3ad65259c2ef4869a6dace684faa8c0855dd1b63aaa5559663e14168ccc0248a.jpg" width="200" />  
+
+<img alt="picture 159" src="images/10029336fc30731e50f4df1c922e8d72c84fdf02c90c9575f79bced09ad9d30e.jpg" width="200" />  
+
+<img alt="picture 160" src="images/436bcdda5b42ee2ecfb8ecae27d46c663ee26ff99d7afb7293f229e0eb1008fe.jpg" width="200" />  
+
+<img alt="picture 161" src="images/5fc8bdc7afece1672b2c8950ed2d1b7704a23b18c236b510580888f540ac50c8.jpg" width="200" />  
+
+<img alt="picture 162" src="images/ff52428f8fd6d96164a118d0701956b47b2bbddaaa83a1c248cc18c00d935f2b.jpg" width="200" />  
+
+LED照明ユニットの裏には、顔のように見える穴が開いているのが…少し面白い。
 
 
 <img alt="picture 100" src="images/83e8b1e3d4272edfdf3cdda61e04733cf9a33ca3fe6502fb6db6c9c5e501943c.jpg" width="200" />  
