@@ -581,6 +581,46 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 イベントで展示を行った際、栽培ロボットは展示内容の仕様と栽培稼働時の仕様が異なっていたため、内部プログラム含めかなり ~~海賊の襲撃~~ …いや改造と改変がされて戻ってきた。
 その変わり果てた姿から栽培ロボット稼働状態まで戻すのに苦労した。特に水の配管と水漏れ対策やり直しに…
 
+<img alt="picture 102" src="images/6023eb9994fba7a9f9b2962026a234f4140460e8b79c7cd06137a0007f1097f8.jpg" width="200" />  
+
+翌朝早くから家を空けないといけなくなったので（忙しい…）栽培瓶にはエアーポンプで空気を送りながら液体肥料を添加した水を追加する。
+
+<img alt="picture 103" src="images/e34eb7d3bd240e11a81cd4a6fe9e65b8f3309a1bb923833e101f51b96a7f4a5c.jpg" width="200" />  
+
+四日後ようやく戻ってこられたため栽培瓶の中を確認すると…まだ枯れて腐ってはいなかった！
+
+<img alt="picture 104" src="images/1055d2f86b3136ac9fc5eb226c4273406e0f9fd6a061f491f9173e6131e4d5da.jpg" width="200" />  
+
+防虫ネットを押し出す勢いで伸びている芽がある。
+
+<img alt="picture 105" src="images/0401698fec7656f8ecc64713294ecced44bd18585850cb167d63145a163e05e6.jpg" width="200" />  
+
+<img alt="picture 106" src="images/7c6c693bfa876f5e676f714e8acd327afd91af9221bff652bcaf42fc2a9fe9db.jpg" width="200" />  
+
+<img alt="picture 107" src="images/634c7641b0794c91b57ea77c6a1ec1793d8b2b8fffae547c5f20a412501a4515.jpg" width="200" />  
+
+<img alt="picture 108" src="images/cd1b9babbd7cb7fdd0145d6f62924a580e1792305bb6730e995e244495578614.jpg" width="200" />  
+
+<img alt="picture 109" src="images/7e6c56f2fb1d34283d4cc9e9c20e0acff5c83f6d24d47e89f9766942856a7a77.jpg" width="200" />  
+
+<img alt="picture 110" src="images/e41148ccee51bce9fa3f52efb833789134993ca1239b2aab43486e9b788b5e6f.jpg" width="200" />  
+
+<img alt="picture 111" src="images/66d88cb0faf6099644c732d0cb2fe431ab97d1df91352d772505402d173203eb.jpg" width="200" />  
+
+<img alt="picture 112" src="images/18b31c9231e2323841bb13d6b849177087603fbadfe4357c7dfabaedbd56950d.jpg" width="200" />  
+
+<img alt="picture 113" src="images/19e0a6c067b684b09a8652bca99dc7dab5914840f8b92b5606aa4221ae46a6d3.jpg" width="200" />  
+
+<img alt="picture 114" src="images/3a3ee4f735eaa6201690df06e01e55cf65a13c16fa86b7fe345233ba6cb325b5.jpg" width="200" />  
+
+<img alt="picture 115" src="images/795c29381c03fa861447fe1595f16a67ffc5268e0e46886290b6a6f28a95f58b.jpg" width="200" />  
+
+<img alt="picture 116" src="images/1d19e07bd0f585903d82cb0427a03c759614943bc8b50edfba7448c2bf913882.jpg" width="200" />  
+
+<img alt="picture 117" src="images/6416c326d778c379aca2ad0c898ea03efffb22a507386c41a6e789391b587623.jpg" width="200" />  
+
+<img alt="picture 118" src="images/809e203ee97c3ce222a4bc62e55e856b21fd733627755f08e11aebbc5bd287c8.jpg" width="200" />  
+
 
 
 何とか稼働状態にできたひみつ道具「栽培ロボット」。しかし運命は更なる強化を望むのであった…
@@ -610,7 +650,15 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 また、ここで未実装であったダイソーフリーマルチネット35cm x 35cm とダイソージョイントラック用延長ポール38cmを実装する。
 
+<img alt="picture 119" src="images/ba3a24eba94cc02c3dad207d33b30926d72de270a9fcaf0c3b22dcd6818fa7b4.jpg" width="200" />  
+
+ダイソーフリーマルチネットは奥に吸い込まれるような錯覚を覚える。
+
+
+
+
 <img alt="picture 100" src="images/83e8b1e3d4272edfdf3cdda61e04733cf9a33ca3fe6502fb6db6c9c5e501943c.jpg" width="200" />  
+
 LED照明ユニット100Vは動作確認のため栽培ロボットとは別にAC100Vに接続して点灯
 
 
@@ -630,13 +678,23 @@ LED照明ユニット100Vは動作確認のため栽培ロボットとは別にA
 
 # 総統から頒布される（予定）のキット内容とそれ以外に揃えなければいけない機材
 
-~~タコピー~~ 総統から頒布される（予定）キットの内容に触れておこうと思うっピ。
+~~タコピー~~ 総統から頒布される予定の栽培ロボットキットの内容に触れておこうと思うっピ。
 
-キット（予定）とそれ以外に揃えなければいけない部材は以下の通り。
+栽培ロボットキット（予定）とそれ以外に揃えなければいけない部材は以下の通り。
+
+<img alt="picture 101" src="images/c6c052aebe2e4564640b1a758627bbe8fc2a15f267e0b547e68110cbff61bcfe.jpg" width="200" />  
+
+栽培ロボットキット（予定）には基板とパイプまわりの部材が付属する。
+頒布予定サイトはIoTLT SHOP
+
+(https://iotlt.myshopify.com/)
+
+である。
 
 LED照明ユニットは一般店舗で販売されていないがキットに含まれない(…)ため諸兄で用意されたい。
 今回の原稿ではLED照明ユニットは栽培ロボットには未接続未制御であるが今後制御できるようにしていく。
 
+## 栽培ロボットキットを含めた部材一覧
 |品目|数量|入手|内容|
 |:----|:----|:----|:----|
 |栽培ロボットキット（予定）|一式|IoTLT通販頒布|穴あけ加工済みアタッシュケースと12VACアダプタとチューブ太細計3mにウォーターストーンとミストノズルとパイプジョイント4個付属|
