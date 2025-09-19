@@ -778,7 +778,73 @@ LED照明ユニット100Vは動作確認のため栽培ロボットとは別にA
 
 そして今回…
 
-この写真を撮った後、豆苗を新しいものに交換した…別のイベント(オープンハードカンファレンス)に豆苗栽培瓶を出展するために…
+<img alt="picture 164" src="images/4f0d1f2db2748fd34e3d20ee53f1cbc24d65f4d135563fa618e913bdefec1153.jpg" width="200" />  
+
+<img alt="picture 165" src="images/f2391a88d45b81296f6775d3f698ebbb92c339306e208f1ac78c4a0f7d2fe03d.jpg" width="200" />  
+
+この写真を撮った後、また三日間家を空けることになる…次に見るときは豆苗も無事ではないだろう…
+
+<img alt="picture 166" src="images/656d734b10ee827fd6873a364168a8bd264c8a54b2d85bab8bb3823539a1213e.jpg" width="200" />  
+
+ここから少し閲覧注意な画像が続くため、収穫した豆苗を炒めた画像を挟むことにする。
+
+<img alt="picture 167" src="images/70e7eeeea7c313939ae5efbbecee9afe3e99b8ff70e81ad61e870078f6cf207c.jpg" width="200" />  
+
+<img alt="picture 168" src="images/55423f9c119c733faa0a1730518c9081e72493638d04ffeaa1ada0545b9a7c2d.jpg" width="200" />  
+
+<img alt="picture 169" src="images/1e68298d9f3e35a841efda88a2b7e392939d829489585a68c24af9326b6b2841.jpg" width="200" />  
+
+<img alt="picture 170" src="images/4d7fea7699448dcb80a847c39e83d42a799bfda583cb81574529eaf93c376183.jpg" width="200" />  
+
+<img alt="picture 171" src="images/3634ed8d566498271d803d2f6521eab401bed0373c7b83551d9d9e86c2fb9225.jpg" width="200" />  
+
+<img alt="picture 172" src="images/9766e3fcc9967aba0d465f181c16048044f9c253852471d74fb64bf1f7fdc722.jpg" width="200" />  
+
+<img alt="picture 173" src="images/3b06721baf2e3501a88fe0c4617236d0762ffce1301098e8472e94fb07643352.jpg" width="200" />  
+
+<img alt="picture 174" src="images/b40113b28e4854e5ded645d6caefa3048f8dc57a4d528a75ee7fef232c410955.jpg" width="200" />  
+
+<img alt="picture 175" src="images/99a814a36073821b65c093da6d5fa04ca745103ed064a98002a00aa1ec6ca0c5.jpg" width="200" />  
+
+<img alt="picture 176" src="images/e1479759b9e6ffabd182ca43f34eac64fde9a165b398adf943d4963036ca4d25.jpg" width="200" />  
+
+<img alt="picture 177" src="images/a7d64a33f10441ea6cdce3bfce1b9bc22763a5345384221f29541c0679c61744.jpg" width="200" />  
+
+<img alt="picture 178" src="images/d59871457cb2415ca952f8d784366e7cf92d264c7c92b9b308d98b576e13c0e5.jpg" width="200" />  
+
+<img alt="picture 179" src="images/474fdcd3771dbb668de6f909e71a19f71c836cd394f52dcc96643130d511c7e6.jpg" width="200" />  
+
+<img alt="picture 180" src="images/bd4c3a210ac59da5b8770be28173976c5b59fbae2d3792207bb3dfcba47667b5.jpg" width="200" />  
+
+<img alt="picture 181" src="images/7737097d924aeeba8ebd9224c38c8b4ee1ab3b0c09decbcde9af0c35ec7b9d28.jpg" width="200" />  
+
+<img alt="picture 182" src="images/bc9f20374875b2adf20b003ea732f72fe2def63f7e383436557b9b1090d1e2a6.jpg" width="200" />  
+
+<img alt="picture 183" src="images/5cc9898f6b73302bfcee2249fd0c06b70601e1d1d0bd95ce8002c294d39c92a0.jpg" width="200" />  
+
+<img alt="picture 184" src="images/dd277edf5a2282d48bd98b64dc6060c4973d6a73428a1cef474ba3e03c852cc5.jpg" width="200" />  
+
+<img alt="picture 185" src="images/7a94a361b6ed8f946b034bc6bfe311636b835cb3689b2ed6d66d3f6a3531e322.jpg" width="200" />  
+
+<img alt="picture 186" src="images/dc4d823e88eeb622cff0570fa62d67cea09b0bd73739cb766c620a174c519542.jpg" width="200" />  
+
+<img alt="picture 187" src="images/f3c2e2dec03f4b4b09425ac3019b226ad24e07faa2349a63f4d138963a209e7e.jpg" width="200" />  
+
+<img alt="picture 188" src="images/ddb8ab2fa06ca41bf898e28e420aefe9ee0870a813e41afe337e80a7f787c74f.jpg" width="200" />  
+
+<img alt="picture 189" src="images/57826aa38bb166a118bb2a8c4ad6ed8e1c2da080a00dccfef54e93e1986e3591.jpg" width="200" />  
+
+<img alt="picture 190" src="images/a22aeb36bcdc4c84f5d803e867368535054a81e75ecab5a8e33d4cae09f56831.jpg" width="200" />  
+
+
+
+
+この写真を撮った後、豆苗を新しいものに交換した…
+
+<img alt="picture 191" src="images/a08cdd69825fa66c6d003c911017a447787ad8ff13fab40aeb172a8e0bdc58df.jpg" width="200" />  
+
+<img alt="picture 192" src="images/6ba66db4df884cbc9f87d2b60d0ace7660b1f5ff5f6f35732e3816344d7ce5f3.jpg" width="200" />  
+
 
 # 総統から頒布される（予定）のキット内容とそれ以外に揃えなければいけない機材
 
