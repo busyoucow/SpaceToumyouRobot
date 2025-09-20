@@ -595,32 +595,59 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 <img alt="picture 105" src="images/0401698fec7656f8ecc64713294ecced44bd18585850cb167d63145a163e05e6.jpg" width="200" />  
 
+この時点ではまだ元気なようだ。瓶から取り出すのが大変なくらい…
+
 <img alt="picture 106" src="images/7c6c693bfa876f5e676f714e8acd327afd91af9221bff652bcaf42fc2a9fe9db.jpg" width="200" />  
+
+何本か収穫する。
 
 <img alt="picture 107" src="images/634c7641b0794c91b57ea77c6a1ec1793d8b2b8fffae547c5f20a412501a4515.jpg" width="200" />  
 
+もう一つの苗も勢いは劣るが何本か収穫した。
+
 <img alt="picture 108" src="images/cd1b9babbd7cb7fdd0145d6f62924a580e1792305bb6730e995e244495578614.jpg" width="200" />  
+
+液体肥料を2～3滴→4～5滴に増やした。これで元気になってくれるといいのだが…
 
 <img alt="picture 109" src="images/7e6c56f2fb1d34283d4cc9e9c20e0acff5c83f6d24d47e89f9766942856a7a77.jpg" width="200" />  
 
+水替え後栽培瓶に入れてチューブを差し込む。防虫ネットをうまく取り付けるのに苦戦する。
+
 <img alt="picture 110" src="images/e41148ccee51bce9fa3f52efb833789134993ca1239b2aab43486e9b788b5e6f.jpg" width="200" />  
+
+プラスチックケースに給水瓶と排水瓶を入れてチューブを通す。ケースはもう少し小さくても良いだろう。
 
 <img alt="picture 111" src="images/66d88cb0faf6099644c732d0cb2fe431ab97d1df91352d772505402d173203eb.jpg" width="200" />  
 
+一部チューブにジョイントを使ってみる。付け替えが楽になるといいのだが…
+
 <img alt="picture 112" src="images/18b31c9231e2323841bb13d6b849177087603fbadfe4357c7dfabaedbd56950d.jpg" width="200" />  
+
+現在の全景である。これ以上カメラを引くと色々写ってしまうのでご勘弁願いたい。
 
 <img alt="picture 113" src="images/19e0a6c067b684b09a8652bca99dc7dab5914840f8b92b5606aa4221ae46a6d3.jpg" width="200" />  
 
+家を空ける前に動作試験を行う。
+
 <img alt="picture 114" src="images/3a3ee4f735eaa6201690df06e01e55cf65a13c16fa86b7fe345233ba6cb325b5.jpg" width="200" />  
+
+うまく水の移動ができているようだ。
 
 <img alt="picture 115" src="images/795c29381c03fa861447fe1595f16a67ffc5268e0e46886290b6a6f28a95f58b.jpg" width="200" />  
 
+排水瓶の中身を捨てて翌朝の正常動作を願う。
+
 <img alt="picture 116" src="images/1d19e07bd0f585903d82cb0427a03c759614943bc8b50edfba7448c2bf913882.jpg" width="200" />  
+
+ロボットとプラスチックケースを並べたらラックの棚板からはみ出してしまった。今後改善する予定だ。
 
 <img alt="picture 117" src="images/6416c326d778c379aca2ad0c898ea03efffb22a507386c41a6e789391b587623.jpg" width="200" />  
 
+栽培瓶側のジョイントから水漏れがあったため接続しなおす。
+
 <img alt="picture 118" src="images/809e203ee97c3ce222a4bc62e55e856b21fd733627755f08e11aebbc5bd287c8.jpg" width="200" />  
 
+苗が無事に生き残ってくれるといいのだが…
 
 
 何とか稼働状態にできたひみつ道具「栽培ロボット」。しかし運命は更なる強化を望むのであった…
@@ -644,7 +671,7 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 |:----|:----|:----|
 |栽培ロボット用アタッシュケース|一基|ダイソーの手持ちハンドル付きアタッシュケースを総統が改造|
 |LED照明ユニット100V|4本|総統が中国より取り寄せたユニット 1本で正方形1辺を構成する|
-|LED照明ユニット用接続角コネクタ|3個|LED照明ユニット同士を直角に接続する|
+|LED照明ユニット用接続角コネクタ|4個一式|LED照明ユニット同士を直角に接続する|
 |LED照明ユニット用ACケーブル|1本|LED照明ユニットに接続し家庭用AC100V電源より電源供給する|
 |固定用針金|適宜|アタッシュケースや栽培ロボット及びLED照明ユニットを固定する|
 
@@ -652,7 +679,7 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 <img alt="picture 119" src="images/ba3a24eba94cc02c3dad207d33b30926d72de270a9fcaf0c3b22dcd6818fa7b4.jpg" width="200" />  
 
-ダイソーフリーマルチネットは奥に吸い込まれるような錯覚を覚える。
+ダイソーフリーマルチネットはワイヤーフレームにも似て奥に吸い込まれるような錯覚を覚える。
 
 <img alt="picture 120" src="images/d680ea3e106cb75aee3cb89c254f3a43f0e119b992845781158d2809f0190b84.jpg" width="200" />  
 
@@ -688,85 +715,154 @@ LED照明ユニットは4本使用する。しかしそのままACケーブル�
 
 <img alt="picture 128" src="images/a8f67fc57d23b55b820a7ca87e5b69f8a48e98695b04988bad792e7d99e06809.jpg" width="200" />  
 
+苗はまだ頑張って伸びている部分がある。
+
 <img alt="picture 129" src="images/126941028d97c336a39fe3d4f0ab4910d2366a754a8c9c3b79833e11005a864c.jpg" width="200" />  
+
+がんばれ豆苗の苗。
 
 <img alt="picture 130" src="images/b7eb472816aa5031ec406586e1487b979426cc2ad5c9571b1f2ea6e30d03b844.jpg" width="200" />  
 
+元気なのは一本だけで残りはあまり伸びていなかった。
+
 <img alt="picture 131" src="images/a9771893375e01e3e15c5270e933837e99c6adc43feebd9891678486c2e1f4e4.jpg" width="200" />  
+
+しかし伸びようという意思は感じられる。
 
 <img alt="picture 132" src="images/e3a63d69d8a638e2cdee1e95b89be0bb9904c89d0330b716ad75b0b3248c6717.jpg" width="200" />  
 
+伸びた部分だけわずかに収穫。
+
 <img alt="picture 133" src="images/3cd96b850e3341e3a9c85f9cf94691972d5b882e47573fec76fd6e4dc86f7efa.jpg" width="200" />  
+
+もう一つの苗は収穫できるほど伸びていないようだ。
 
 <img alt="picture 134" src="images/0f82142f85b4aa656c42bda9aae1cbeef39d4100846fc1fd9322d38abee5be4c.jpg" width="200" />  
 
+青い部分がこれから伸びる期待を抱かせる。
+
 <img alt="picture 135" src="images/12b590afe3ae5250d17454628a0c1083abbf128e3db19c3ed265ec7a5387add7.jpg" width="200" />  
+
+根の方は変色が進んでいるようだ。
 
 <img alt="picture 136" src="images/d9f77e8e2ffb93e8d225546d0cec9b506493aa85163256ac80a9e4d4e8b81ee1.jpg" width="200" />  
 
+水替え後に栽培ロボットの配置とラックの拡張を行うことにする。栽培ロボットは新たにアタッシュケースへと格納する。
+
 <img alt="picture 101" src="images/c6c052aebe2e4564640b1a758627bbe8fc2a15f267e0b547e68110cbff61bcfe.jpg" width="200" />  
+
+チューブの取り回しも見直してアタッシュケース穴から出せるようにする。
 
 <img alt="picture 137" src="images/5b8d8afbb948faf81fbcbae7e19961ee3f2c5970dcb529b108a4825ef35af0ad.jpg" width="200" />  
 
+マイコンと基板の電源供給も穴から出せるように。同じ穴を使ってアタッシュケースと基板を針金で固定する。
+
 <img alt="picture 138" src="images/49cc63ca6106128042aeb325b53ee7b732f821503305202b12c1b1598e0408eb.jpg" width="200" />  
+
+ラックの上側棚板を少し上げポールを延長する。アタッシュケースに入った栽培ロボットをダイソーフリーマルチネットに固定してラックに垂直に固定する。
 
 <img alt="picture 139" src="images/b4777051e4669e75399129e84afb173593ebe4f72bc443cf97ef8e9825a704a8.jpg" width="200" />  
 
+栽培ロボットのボタンを押すためにアタッシュケースを開けているが固定はうまくいったようだ。
+
 <img alt="picture 140" src="images/89f7bc00652bb091d9ce088ac8cdbda6382b1d838c5f3fec08f83c0035dac07f.jpg" width="200" />  
+
+ダイソーフリーマルチネットの裏から針金をねじって固定する。
 
 <img alt="picture 141" src="images/cf01dbced38933638476830fc15ec0b2bf1db91d59aadb191613713da5f53715.jpg" width="200" />  
 
+これから各種瓶と接続する。
+
 <img alt="picture 142" src="images/e823249526a3df96818462cc8f25ca4ccff03509b16be5c65ecb30353502ee77.jpg" width="200" />  
+
+アタッシュケースから伸びるパイプは多い。間違えないようにしないと。
 
 <img alt="picture 143" src="images/4ccc99411afc8bd563a3fc27bc0394cce106bc8e58a946e7c5a6fc3ae31bea3d.jpg" width="200" />  
 
+プラスチックケースは以前使ったものと比べて半分のサイズのものを使ったが、ボトルは十分入るようだ。
+
 <img alt="picture 144" src="images/5d59beadda646585da56e5c3151660b5192e9ce8fc669c1effdb5b4ecb0bb0c3.jpg" width="200" />  
+
+まずは水通し試験の為栽培瓶の代わりに試験用瓶を使用する。
 
 <img alt="picture 145" src="images/a252e58b57749406d4e7b4b6db87b45ab87ca4608585a91f8063bc51dc605192.jpg" width="200" />  
 
+各ボトルとアタッシュケースの間にはパイプジョイントを挟み交換時の負荷軽減を図る。
+
 <img alt="picture 146" src="images/f47cf8a583495bc94579afdb691ace3bf444aec7f637b77db689ae291e3b0c03.jpg" width="200" />  
+
+水通しの試験を行うが、水漏れが起こっているようだ。
 
 <img alt="picture 147" src="images/852edc167c7c3b8b195162d2f745991c947cbada3d61e98c494181cf47fafdda.jpg" width="200" />  
 
+水自体の移動は問題なく行われているようだ。
+
 <img alt="picture 148" src="images/828bf5d329f6ea71a14c1744e0aad9821f0403c48a03396fe63be73cb14fbc58.jpg" width="200" />  
+
+試験用瓶にも水が溜まっている。
 
 <img alt="picture 149" src="images/7300a681a01519d733039de161f6efc9e40be970ff178c2dba480c51f113cafc.jpg" width="200" />  
 
+一方給水瓶からは水がみるみるうちになくなっていく。
+
 <img alt="picture 150" src="images/8247adeeccef536e95a6d6dea1a3b03700c0d9ceb1cfcfbffef6c0ae34bde73a.jpg" width="200" />  
+
+排水瓶にも水が溜まっているようだ。
 
 <img alt="picture 151" src="images/8fbd27b5d7ef4f793fd22a381fcd7cb92cc484192dc553bd4d92be4d3adb4023.jpg" width="200" />  
 
+水漏れ個所を修正し問題を解決する。
+
 <img alt="picture 152" src="images/778dca8f70940efa5919a83901a9b83e1a0058b960d9bf58e2f6b3f8eba46f82.jpg" width="200" />  
+
+問題は無くなったため試験瓶からパイプを外し栽培瓶に通す。給水側が二股ジョイントなのはジョイントが足りなくなったためである。
 
 <img alt="picture 153" src="images/417dd77e321262b653dbeef01bbecb4d84ca05f7525ad6c70160af5e0533f0a0.jpg" width="200" />  
 
+防虫ネットを張りラック下段に格納。
+
 <img alt="picture 154" src="images/1a5574d8c6e3af278ceb8fe3762224576a642c2f418e58d143b10ed37454d836.jpg" width="200" />  
+
+この状態でも通水に問題はないことを確認する。
 
 <img alt="picture 155" src="images/598d851e9ff7ad80fb37b8954a33f62057e3cb9012545b8f74d4284fb885ba39.jpg" width="200" />  
 
+無事に給排水は行われているようだ。
+
 <img alt="picture 156" src="images/d885c2782b055e332567bc9d1a19ec93625a175688806d2465e20893dd93f36b.jpg" width="200" />  
+
+最後に大仕事、LED照明ユニットを設置する。
 
 <img alt="picture 157" src="images/564977bd5294f11705e89185e47bf3f2e1a4a58ae326c7babbc50e7696aee2aa.jpg" width="200" />  
 
+ソケット間のケーブル長さはギリギリ。ひとまず仮止めとしておく。
+
 <img alt="picture 158" src="images/3ad65259c2ef4869a6dace684faa8c0855dd1b63aaa5559663e14168ccc0248a.jpg" width="200" />  
+
+空いたソケットにAC100Vケーブルを刺して点灯試験。水を扱うため漏電しないか結構ヒヤヒヤする。
 
 <img alt="picture 159" src="images/10029336fc30731e50f4df1c922e8d72c84fdf02c90c9575f79bced09ad9d30e.jpg" width="200" />  
 
+一応AC100Vケーブルにはプラグ側にスイッチが付いているため何かあったらオフにできる…？
+
 <img alt="picture 160" src="images/436bcdda5b42ee2ecfb8ecae27d46c663ee26ff99d7afb7293f229e0eb1008fe.jpg" width="200" />  
 
+無事に点灯したようで一安心。
+
 <img alt="picture 161" src="images/5fc8bdc7afece1672b2c8950ed2d1b7704a23b18c236b510580888f540ac50c8.jpg" width="200" />  
+
+制御はまた次回以降になるが、何とか形になった。
 
 <img alt="picture 162" src="images/ff52428f8fd6d96164a118d0701956b47b2bbddaaa83a1c248cc18c00d935f2b.jpg" width="200" />  
 
 LED照明ユニットの裏には、顔のように見える穴が開いているのが…少し面白い。
 
-
 <img alt="picture 100" src="images/83e8b1e3d4272edfdf3cdda61e04733cf9a33ca3fe6502fb6db6c9c5e501943c.jpg" width="200" />  
 
-LED照明ユニット100Vは動作確認のため栽培ロボットとは別にAC100Vに接続して点灯
+LED照明ユニット100Vは動作確認のため栽培ロボットとは別にAC100Vに接続して点灯している。
 
 
-…組み上げて、私は心の中で叫んだ。「これが手軽に使える栽培ロボットだというのかい！」
+…組み上げた後、私は心の中で叫んだ。「これが手軽に使える栽培ロボットだというのかい！」
 それくらい、規模が大きくなったと感じる…
 
 盛り上がってきた次回、豆苗は果たしてどうなるのか！？
@@ -780,7 +876,11 @@ LED照明ユニット100Vは動作確認のため栽培ロボットとは別にA
 
 <img alt="picture 164" src="images/4f0d1f2db2748fd34e3d20ee53f1cbc24d65f4d135563fa618e913bdefec1153.jpg" width="200" />  
 
+朝、豆苗の写真を撮ったときはまだ青い部分が残っていた。
+
 <img alt="picture 165" src="images/f2391a88d45b81296f6775d3f698ebbb92c339306e208f1ac78c4a0f7d2fe03d.jpg" width="200" />  
+
+６時半の給排水もうまくいっており、排水もあまり濁っていなかった。
 
 この写真を撮った後、また三日間家を空けることになる…次に見るときは豆苗も無事ではないだろう…
 
@@ -790,61 +890,109 @@ LED照明ユニット100Vは動作確認のため栽培ロボットとは別にA
 
 <img alt="picture 167" src="images/70e7eeeea7c313939ae5efbbecee9afe3e99b8ff70e81ad61e870078f6cf207c.jpg" width="200" />  
 
+栽培ロボットはうまく動いているようだが…
+
 <img alt="picture 168" src="images/55423f9c119c733faa0a1730518c9081e72493638d04ffeaa1ada0545b9a7c2d.jpg" width="200" />  
+
+緑の部分はかなり少なくなっている。
 
 <img alt="picture 169" src="images/1e68298d9f3e35a841efda88a2b7e392939d829489585a68c24af9326b6b2841.jpg" width="200" />  
 
+水漏れはないようだが、
+
 <img alt="picture 170" src="images/4d7fea7699448dcb80a847c39e83d42a799bfda583cb81574529eaf93c376183.jpg" width="200" />  
+
+排水瓶の中身は少し濁っているようだ。
 
 <img alt="picture 171" src="images/3634ed8d566498271d803d2f6521eab401bed0373c7b83551d9d9e86c2fb9225.jpg" width="200" />  
 
+栽培瓶の中も豆苗の苗が茶色くなっている。緑の芽もしなびてしまった。
+
 <img alt="picture 172" src="images/9766e3fcc9967aba0d465f181c16048044f9c253852471d74fb64bf1f7fdc722.jpg" width="200" />  
+
+翌朝見てみたが、排水瓶の中身は更に濁ってきた。
 
 <img alt="picture 173" src="images/3b06721baf2e3501a88fe0c4617236d0762ffce1301098e8472e94fb07643352.jpg" width="200" />  
 
+排水瓶の防虫ネットに洗濯ばさみをつけて隙間をふさいだが、コバエが周囲を舞っていた。
+
 <img alt="picture 174" src="images/b40113b28e4854e5ded645d6caefa3048f8dc57a4d528a75ee7fef232c410955.jpg" width="200" />  
+
+栽培瓶も茶色く濁っていたため、栽培ロボットのボタンを押して排水を何度か行う。
 
 <img alt="picture 175" src="images/99a814a36073821b65c093da6d5fa04ca745103ed064a98002a00aa1ec6ca0c5.jpg" width="200" />  
 
+粗方水は抜けたが豆苗の苗は茶色い。もはや腐ってしまったようだ。
+
 <img alt="picture 176" src="images/e1479759b9e6ffabd182ca43f34eac64fde9a165b398adf943d4963036ca4d25.jpg" width="200" />  
+
+残った水にはエアーポンプによる泡立ちがみられる。
 
 <img alt="picture 177" src="images/a7d64a33f10441ea6cdce3bfce1b9bc22763a5345384221f29541c0679c61744.jpg" width="200" />  
 
+残念ながら、今回の苗は処分することにした。
+
 <img alt="picture 178" src="images/d59871457cb2415ca952f8d784366e7cf92d264c7c92b9b308d98b576e13c0e5.jpg" width="200" />  
+
+水の濁りが進んでいる。
 
 <img alt="picture 179" src="images/474fdcd3771dbb668de6f909e71a19f71c836cd394f52dcc96643130d511c7e6.jpg" width="200" />  
 
+取り出した苗は少し匂いを放っている。
+
 <img alt="picture 180" src="images/bd4c3a210ac59da5b8770be28173976c5b59fbae2d3792207bb3dfcba47667b5.jpg" width="200" />  
+
+僅かに生き残った芽もしなびてしまった。
 
 <img alt="picture 181" src="images/7737097d924aeeba8ebd9224c38c8b4ee1ab3b0c09decbcde9af0c35ec7b9d28.jpg" width="200" />  
 
+こうなると、もう収穫どころではない。
+
 <img alt="picture 182" src="images/bc9f20374875b2adf20b003ea732f72fe2def63f7e383436557b9b1090d1e2a6.jpg" width="200" />  
+
+もう一つの苗も取り出す。残った芽も元気がない。
 
 <img alt="picture 183" src="images/5cc9898f6b73302bfcee2249fd0c06b70601e1d1d0bd95ce8002c294d39c92a0.jpg" width="200" />  
 
+腐った匂いと青臭い匂いが食欲を失わせる。
+
 <img alt="picture 184" src="images/dd277edf5a2282d48bd98b64dc6060c4973d6a73428a1cef474ba3e03c852cc5.jpg" width="200" />  
+
+生命力の無い茎はかろうじて形を保っている。
 
 <img alt="picture 185" src="images/7a94a361b6ed8f946b034bc6bfe311636b835cb3689b2ed6d66d3f6a3531e322.jpg" width="200" />  
 
+葉はもはや光を受け取る状態ではない。
+
 <img alt="picture 186" src="images/dc4d823e88eeb622cff0570fa62d67cea09b0bd73739cb766c620a174c519542.jpg" width="200" />  
+
+根の部分の黒い豆皮は中の豆から完全に外れてしまっている。
 
 <img alt="picture 187" src="images/f3c2e2dec03f4b4b09425ac3019b226ad24e07faa2349a63f4d138963a209e7e.jpg" width="200" />  
 
+根はまだ十分に張っているが、これから生き残るのは難しいだろう。
+
 <img alt="picture 188" src="images/ddb8ab2fa06ca41bf898e28e420aefe9ee0870a813e41afe337e80a7f787c74f.jpg" width="200" />  
+
+一晩でこれだけ変わるのも、タイミングというか寿命なのだろう。
 
 <img alt="picture 189" src="images/57826aa38bb166a118bb2a8c4ad6ed8e1c2da080a00dccfef54e93e1986e3591.jpg" width="200" />  
 
+苗を廃棄し栽培瓶やパイプを熱湯消毒する。麦飯石も湯通しした。
+
 <img alt="picture 190" src="images/a22aeb36bcdc4c84f5d803e867368535054a81e75ecab5a8e33d4cae09f56831.jpg" width="200" />  
 
-
-
-
-この写真を撮った後、豆苗を新しいものに交換した…
+そしてこの写真を撮った後、豆苗を新しいものに交換した…
 
 <img alt="picture 191" src="images/a08cdd69825fa66c6d003c911017a447787ad8ff13fab40aeb172a8e0bdc58df.jpg" width="200" />  
 
+新しい豆苗の話は、またの機会にしようと思う。
+
 <img alt="picture 192" src="images/6ba66db4df884cbc9f87d2b60d0ace7660b1f5ff5f6f35732e3816344d7ce5f3.jpg" width="200" />  
 
+パイプジョイントのおかげで栽培瓶などの取り回しがしやすくなった。
+
+…お話は、まだちょっとだけ続くんじゃ。
 
 # 総統から頒布される（予定）のキット内容とそれ以外に揃えなければいけない機材
 
