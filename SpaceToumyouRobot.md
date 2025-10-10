@@ -30,14 +30,12 @@ copyright: reserved
 
 
 # はじめに
-H3ロケット打ち上げに関するTV番組が放映され、宇宙関連イベントも行われ宇宙開発機運が高まっている時に、それは来た。
+H3ロケット打ち上げに関するTV番組が放映され、宇宙関連イベントも行われ宇宙開発機運が高まっている時に、「それ」は来た。
 
-「みんなをひみつ道具でハッピーにするっピ」（意訳）
-
-政治も経済も国際情勢も混迷を極めているこの最中で、それは清々しい一服の清涼剤にも感じた。
+政治も経済も国際情勢も混迷を極めているこの最中で、「それ」は清々しい一服の清涼剤にも感じた。
 今は2025年である。街には大阪万博のキャラクターが溢れ連日猛暑が報道されている。
 
-総統よりひみつ道具（栽培ロボット）をキットで受け取って1年以上。
+総統より栽培ロボットをキットで受け取って1年以上。
 
 都心の広場で栽培ロボット基板を実装確認したり（その後熱中症でダウンした）
 
@@ -53,7 +51,7 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 と、いうよりこのままでは宇宙市民として生きる時代に間に合わない。
 
 能登半島の復興も気になるが、身体も脳も1セットしかない以上リソースは限られている。
-よりよき世界線の選択した未来に向けて、今筆をとる…
+不安で溢れる未来に向けて、今筆をとる…
 
 <img alt="picture 6" src="images/a94adcd340c4c3a4f17afe4e40342397335fd9ec194046427c9821abf1938004.jpg" width="200" />  
 
@@ -94,14 +92,13 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 <img alt="picture 5" src="images/b5750e98fd5595f0af5d7b68c7c9726deb7330fe6581fd0f001c8c296d668d92.jpg" width="200" />  
 
 
-# ハッピーになるための計画
+# 計画
 <img alt="picture 8" src="images/ef6ebe20c055144f66d10459334603c2ba3e393739f2ae7c4de6488cedb3a044.png" width="200" />  
 
 宇宙空間にて長期滞在する場合、打ち上げコストとの兼ね合いにより新鮮な食料の現地生産による確保を検討する必要があると考える。
 また昨今災害や気象不順により農作物の生産に不都合が生じ、物流危機とあいまって新鮮な食材の確保が安定してできないという事態が増えつつある。
 令和の米騒動はもはやフィクションではなくなった。
 
- ハッピーになるにはまず食事からと考えるッピ。…もとい、
 
 食事の確保は人間の幸福に関して大きな比重を占めるのは否定できないであろう。
 
@@ -119,12 +116,12 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
  に掲載されているため興味があれば参照して欲しい。
 
 
-# 必要なひみつ道具設置機材を組み立てる
+# 必要な設置機材を組み立てる
 アニメや漫画ではないのですぐ使える状態のセットが販売されているものではない。
 しかし、使用する部材の大部分は100円ショップのダイソーで入手できる。
 詳細は上記 (https://github.com/busyoucow/SpaceRobotFarmTest01) に記載されているが…
 
-ちゃんと機材リストをここにも記載するっピ。
+ちゃんと機材リストをここにも記載する。
 
 ## 必要な部材リスト
 
@@ -156,9 +153,9 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 ダイソージョイントラック用棚(II型)25cm × 45cm → ダイソージョイントラック用棚(II型)29cm × 29cm
 
 
-# そして、ひみつ道具登場
+# そして、登場
 
-そしてこれが総統より供与されたひみつ道具。栽培ロボットである。
+そしてこれが総統より供与された栽培ロボットである。
 
 栽培ロボットをインストール 1st
 (https://qiita.com/nanbuwks/items/37bffef16036937eecc3) 
@@ -180,7 +177,7 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 このあたりの詳細はまた別の機会にて紹介するものとする。
 
-## ひみつ道具関連の必要な部材
+## 関連の必要な部材
 栽培ロボット以外はダイソー及び100円ショップやホームセンターにて調達できる。
 
 |品目|数量|部位|
@@ -202,8 +199,8 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 また、今回は異物混入防止のため、給水側にチューブ用ウォーターストーンと緩めた噴霧用ノズルを付けているが必須ではない。
 
-# タコじゃないけど配管縦横無尽
-配管は以前の記事()で接続して栽培ロボット動作展示で稼働させたが、配管からは水漏れを生じている状態であった。
+# タコ足配管縦横無尽
+配管は以前の記事( https://github.com/busyoucow/SpaceRobotFarmTest01 )で接続して栽培ロボット動作展示で稼働させたが、配管からは水漏れを生じている状態であった。
 
 <img alt="picture 55" src="images/d53ae8a7336f2a44c08b9491a126dc0ed486ba4469d21e357955d95e248483a9.jpg" width="200" />  
 
@@ -232,8 +229,8 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 これにより、水漏れは劇的に減った。
 
 
-# 実際におはな！…じゃなくて豆苗を栽培してみよう
-ドクダミの花ではなく美味しく食べられる豆苗を栽培ロボット管理のもと栽培していく。
+# 実際に豆苗を栽培してみよう
+美味しく食べられる豆苗を栽培ロボット管理のもと栽培していく。
 
 <img alt="picture 10" src="images/09b8ad172ebd51098c9a343b55a38a9624ec530a93cea5ca2dc0d465f6e4227b.jpg" width="200" />  
 
@@ -291,11 +288,11 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 今回切除した茎と葉は調理して頂くとしよう
 
-# ひみつ道具の導入
+# 導入
 そしてこの後、家を４日空ける必要に迫られた。
 
-今こそひみつ道具…もとい栽培ロボットを実際の栽培で稼働する好機である。
-記憶が世界線の海に没する前に、設置する過程をここに記すものとする。
+今こそ栽培ロボットを実際の栽培で稼働する好機である。
+記憶が没する前に、設置する過程をここに記すものとする。
 
 <img alt="picture 24" src="images/fa5465fc26984af1e0f61ca06d00ec43d95cc415927af736ec9366087f3fb8df.jpg" width="200" />  
 
@@ -459,7 +456,7 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 <img alt="picture 70" src="images/41dee1a5660a13c6620241b71703d34051bbc5ea24a2330b439218a87250af0d.jpg" width="200" />  
 
-このタイミングでメタルラックを45x25サイズのものから29x29サイズのものへ変更する。
+このタイミングでメタルラックを45x25サイズのものから30x30サイズのものへ変更する。
 45x25サイズのものはイベント展示用に再利用する事とする。
 
 <img alt="picture 71" src="images/52aea40f94bda30e46437fb0e1303375bb0ababdfb9fffcd6045a71887a0f4c8.jpg" width="200" />  
@@ -578,7 +575,7 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 
 
 # イベントから戻って復旧
-イベントで展示を行った際、栽培ロボットは展示内容の仕様と栽培稼働時の仕様が異なっていたため、内部プログラム含めかなり ~~海賊の襲撃~~ …いや改造と改変がされて戻ってきた。
+イベントで展示を行った際、供出した栽培ロボットは展示内容の仕様と栽培稼働時の仕様が異なっていたため、内部プログラム含めかなり改造と改変がされて戻ってきた。
 その変わり果てた姿から栽培ロボット稼働状態まで戻すのに苦労した。特に水の配管と水漏れ対策やり直しに…
 
 <img alt="picture 102" src="images/6023eb9994fba7a9f9b2962026a234f4140460e8b79c7cd06137a0007f1097f8.jpg" width="200" />  
@@ -650,12 +647,12 @@ Jaxaが月面に向け有人ローバーを打ち上げるまで、あと6年。
 苗が無事に生き残ってくれるといいのだが…
 
 
-何とか稼働状態にできたひみつ道具「栽培ロボット」。しかし運命は更なる強化を望むのであった…
+何とか稼働状態にできた「栽培ロボット」。しかし運命は更なる強化を望むのであった…
 
-# ひみつ道具、真の姿に！？
-栽培ロボット供与元の ~~タコピー~~ 総統から「僕の展示と同じ仕様にしてください。その為のパーツは供与しましたよね？」と要求があった。
+# 真の姿に！？
+栽培ロボット供与元の総統から「僕の展示と同じ仕様にしてください。その為のパーツは供与しましたよね？」と要求があった。
 
-確かに以前から ~~アナハイムエレクトロニクス~~ 総統からは専用改造ケースやLED照明を供与されていた。
+確かに以前から総統より専用改造ケースやLED照明を供与されていた。
 
 <img alt="picture 99" src="images/de8503b56051bf84a8275d29a83019ddec0de97c2626d8ceacea2960e3d1b6a5.png" width="200" />  
 
@@ -862,12 +859,12 @@ LED照明ユニットの裏には、顔のように見える穴が開いてい�
 LED照明ユニット100Vは動作確認のため栽培ロボットとは別にAC100Vに接続して点灯している。
 
 
-…組み上げた後、私は心の中で叫んだ。「これが手軽に使える栽培ロボットだというのかい！」
+…組み上げた後、私は心の中で叫んだ。
 それくらい、規模が大きくなったと感じる…
 
-盛り上がってきた次回、豆苗は果たしてどうなるのか！？
+豆苗は果たしてどうなるのか！？
 # 豆苗、力尽きる…
-出オチで申し訳ないが、いくら豆苗でも一度切断した部分からは芽は生えてこない。切断した部分より下の成長点（分け芽）より芽が生えて伸びていくのである。
+いくら豆苗でも一度切断した部分からは芽は生えてこない。切断した部分より下の成長点（分け芽）より芽が生えて伸びていくのである。
 
 成長点には限りがあり、無くなれば葉を生やすことができず豆苗は枯れて腐っていく…
 前回は家を空けているうちに腐ってから数日が経ったようでエアーポンプの泡が栽培瓶の中を満たすくらいであった。
@@ -992,11 +989,9 @@ LED照明ユニット100Vは動作確認のため栽培ロボットとは別にA
 
 パイプジョイントのおかげで栽培瓶などの取り回しがしやすくなった。
 
-…お話は、まだちょっとだけ続くんじゃ。
 
 # 総統から頒布される（予定）のキット内容とそれ以外に揃えなければいけない機材
 
-~~タコピー~~ 総統から頒布される予定の栽培ロボットキットの内容に触れておこうと思うっピ。
 
 栽培ロボットキット（予定）とそれ以外に揃えなければいけない部材は以下の通り。
 
@@ -1009,7 +1004,7 @@ LED照明ユニット100Vは動作確認のため栽培ロボットとは別にA
 
 である。
 
-LED照明ユニットは一般店舗で販売されていないがキットに含まれない(…)ため諸兄で用意されたい。
+LED照明ユニットは一般店舗で販売されていないがキットに含まれないため諸兄で用意されたい。
 今回の原稿ではLED照明ユニットは栽培ロボットには未接続未制御であるが今後制御できるようにしていく。
 
 ## 栽培ロボットキットを含めた部材一覧
@@ -1064,6 +1059,9 @@ LED照明ユニットは一般店舗で販売されていないがキットに�
 
 # 気温が落ち着いてきたため再始動
 
+最高気温が下がったため、再度豆苗を栽培することとする。
+前回のターンと比較して生育状況がどう変わるかを観察する。
+
 # 今回の豆苗栽培ターンで変わった・変えたこと
 - 最高気温が29℃を下回った
 - 収穫時に分け目のすぐ上を切るようにし成長点を残す
@@ -1072,14 +1070,146 @@ LED照明ユニットは一般店舗で販売されていないがキットに�
 
 # ターン開始！栽培スタンバイ！
 
+<img alt="picture 193" src="images/296ef0d6b507562b365394c859af3fa10c84cc711342613d2da1928e3b15a741.jpg" width="200" />  
+
+<img alt="picture 194" src="images/bf97a951a7229f34034dfa4160593c85327f1e0f7a2606f6bca5965faeb65e46.jpg" width="200" />  
+
+<img alt="picture 195" src="images/20b1d5bd45723245ff4f10767dfd890739bc4feb808ff88c968a192ef2003220.jpg" width="200" />  
+
+<img alt="picture 196" src="images/ba399e684e33e8c1917190fe7b22f0f5e24cf368b93da714eb0737d3d3fa02aa.jpg" width="200" />  
+
+<img alt="picture 197" src="images/c99cdb9a2614a8a7b039d4cb618709a0e36d8cb787863e06acdee8f8329fdace.jpg" width="200" />  
+
+<img alt="picture 198" src="images/8c91aeff85da38cf36453065794447e6ea0087af7135edd12719e020820d38d6.jpg" width="200" />  
+
+<img alt="picture 199" src="images/77b60e7fa235f8aa3426d58ade03fe43f01aa5ce1bdc0635fcf6324f00da39a5.jpg" width="200" />  
+
+<img alt="picture 200" src="images/c0073fa115a0f342f58a5fa114148eb86be44f171ebf76ac252bdb0df32940cc.jpg" width="200" />  
+
+<img alt="picture 201" src="images/3cbdf18e877db8fe6208e71a1fe93fc724837e77bdb6b973a9c840903e5deb06.jpg" width="200" />  
+
+<img alt="picture 202" src="images/f6614c81aada8c5cf62fe24c442ea8b25a29f1a91d176b16febb56e4d0a37d94.jpg" width="200" />  
+
+<img alt="picture 203" src="images/05b3d0ba3747052314ba7df78437490ae25e65fc7b8bfb5b4dbfb9b516d6aac7.jpg" width="200" />  
+
+<img alt="picture 204" src="images/87bb3152d5b61fb071034df1800ad3a685cc6bab1e337bad017b0316971cd741.jpg" width="200" />  
+
+<img alt="picture 205" src="images/dc7a28f14e179746388783c8e85475740b790551256cb10b99ef27bec3ccca45.jpg" width="200" />  
+
+<img alt="picture 206" src="images/596a8719aa57a95c4867635c0830dffcfcae63a1876dc7fde524f38b4b494bde.jpg" width="200" />  
+
+<img alt="picture 207" src="images/1e364b5f319eb90d00a8bdb1157445f08cda5434b64b6bfeefcabefdae6f403e.jpg" width="200" />  
+
+<img alt="picture 208" src="images/f2a0f0b5ffc7741f6f0173a1ead244e248537eb592434c9b5fb78369b57ab931.jpg" width="200" />  
+
+<img alt="picture 209" src="images/a19d607f34c51bd2b4defc5edeec925ee7af7b837cd7bbb4b42d6ae388c14916.jpg" width="200" />  
+
+<img alt="picture 210" src="images/564f354dea8e0f199434c3bfbe54edca5668a826b1105b33d737bc06916141ee.jpg" width="200" />  
+
+<img alt="picture 211" src="images/402c4e7290050e720847a77e48eb8c6e37b59e40c30168eaf19996548d4a1dc1.jpg" width="200" />  
+
+<img alt="picture 212" src="images/bc26973854f2fb9a47516b3e65f37e6a870eb5aa20ccd686b884d626e74d112f.jpg" width="200" />  
+
+<img alt="picture 213" src="images/c9dfe22a44439a7f2b437dff83c12c5c26bc4234cf66a3fdf987a713bc8d9d6f.jpg" width="200" />  
+
+<img alt="picture 214" src="images/83c46028d0bfa7c660c225e9b80b051c29f5b71d3238530f7a53a71878c1c964.jpg" width="200" />  
+
+<img alt="picture 215" src="images/48b3f8458d8937cbf2243345e71593501c143d54a9ff09cfe6b439d4713c6808.jpg" width="200" />  
+
+<img alt="picture 216" src="images/6d244b084e33888818d16a3561c2a617e7c407dfe5e467d978f9a194f39ec961.jpg" width="200" />  
+
+<img alt="picture 217" src="images/6e551d1bebdcd16fc33c33f595477977f9f23cc9344269313581bc348eba4a92.jpg" width="200" />  
+
+<img alt="picture 218" src="images/866c7ab99044365df03a19ec0ee68c7de8a4bb2cc0915b19c17ca4e34c770b61.jpg" width="200" />  
+
+<img alt="picture 219" src="images/8edeff6a45628ed4a6c813c3a55b44b2dc4f0e8b4f6cec2614766e3a76775f24.jpg" width="200" />  
+
+<img alt="picture 220" src="images/47f59b632a8fbf330b863e74fef064de7589baa3487f1cf79d7d5e69eaa882c6.jpg" width="200" />  
+
+<img alt="picture 221" src="images/f73cb725fc9e80bad2ce20f7d4a546c5006b5502f5721fd97b03df28cae24396.jpg" width="200" />  
+
+<img alt="picture 222" src="images/58e978cab48603031b8ba2c8e981e525acbb8f1e7436e1ced890c6accfab962b.jpg" width="200" />  
+
+<img alt="picture 223" src="images/19c02f2ffa7ca5479edd1a0f692cd2a4ed5d0c3e0edbe22c717dfc031a930d92.jpg" width="200" />  
+
+<img alt="picture 224" src="images/96cea10ddf2c06faad8152430cce4271997ec2f78f20f7df67acf813a0d98e7f.jpg" width="200" />  
+
+<img alt="picture 225" src="images/b9d3c38732074260dd0548a9740256674775d71c84b78c2abd988ac79c24a90c.jpg" width="200" />  
+
+<img alt="picture 226" src="images/25d507d70ffc1731b72cc7e803d5d6470cfb945b4b5c06cda23c1034067fa29c.jpg" width="200" />  
+
+<img alt="picture 227" src="images/66593a2c6c55486f2ac3b26e4a1e8f4f41bb5bb3f102c2e914120a467a391414.jpg" width="200" />  
+
+<img alt="picture 228" src="images/13cb189d138ef24334b7ed7aafe91f742f2950a85f59e577d8385c6d9c62a2cd.jpg" width="200" />  
+
+<img alt="picture 229" src="images/f02fdf65ab8b7678aa32d0fa6c25bb6d70ef6779200e5f57fe66f1fa02762b05.jpg" width="200" />  
+
+<img alt="picture 230" src="images/5b33f5593a2f825987e6484813f9508647322073d9c2bb0ed39a0e641ffd892c.jpg" width="200" />  
+
+<img alt="picture 231" src="images/be427f1a747bf7c389c1d4cab1ad6ab16ad0b2a62822ed74334f00cebae37681.jpg" width="200" />  
+
+<img alt="picture 232" src="images/45e6905465233ec83fdc367fc38d50b60b6fee038375bc532cc2c4fa7799c11b.jpg" width="200" />  
+
+<img alt="picture 233" src="images/f3ccf0ae5035540b49f7c95d3a9abdf5595e7b2b90a83f526de6bb4507f2fa7e.jpg" width="200" />  
+
+<img alt="picture 234" src="images/1bdaf23d2c943c9587d113b158341b66041134568aa141966be4a0f1d4b49fd2.jpg" width="200" />  
+
+<img alt="picture 235" src="images/4252922657028e218c3da2b575fc0b446c115fd5233a034c29f722bd3a5400bb.jpg" width="200" />  
+
+<img alt="picture 236" src="images/095269b8af786ea29c15faa1846f744ea7b57b6ded992f205df2a38f9b84d758.jpg" width="200" />  
+
+<img alt="picture 237" src="images/c3acf6046e3dae1db91d28a357a622c4308b534f1810256fda9c433e5951b305.jpg" width="200" />  
 
 
-# まとめ　～2025年の君たちへ
-いつか、「あの頃は～」みたいに語られる日が来るかもしれない。
-その時に失敗を重ねて世界の動乱に巻き込まれているか、
-失敗から学び一つ抜けられるか。
+<img alt="picture 238" src="images/b8260e5b43174b4d1689922a233c942dad71ca7e0a7262e3bd856a180467cb2f.jpg" width="200" />  
 
-世界線は常に移動している。
+<img alt="picture 239" src="images/a9ba938a0ee99ff46f3c2df4e6377a84e382bf0aa462ee79bcdeb3f0af620150.jpg" width="200" />  
+
+<img alt="picture 240" src="images/5679a37013d245cf478082b6d8bcbeb1713fc57a75bcab0b053b49b6fa3440c1.jpg" width="200" />  
+
+<img alt="picture 241" src="images/7abdb1026a45efc63f5ecca2b0cb4358e9f50b00946b34701af2cac83bdf9ad1.jpg" width="200" />  
+
+<img alt="picture 242" src="images/1dd63b096f773a3c4cc20105a09ab7081f8328166fc8ed8b13bd198212a641f3.jpg" width="200" />  
+
+<img alt="picture 243" src="images/3068f5eefe95c238672a1a6358f67a31438fce72c1e383190549a63d1ba3b1b2.jpg" width="200" />  
+
+<img alt="picture 244" src="images/83e13e647132e3173780514d7f4f0e3903682c7cf5efa33ef4b7a90abc93a737.jpg" width="200" />  
+
+<img alt="picture 245" src="images/f54f0861770f1a43fedc5cf9cbf0948f556fbbd5f4568393f2c208dad3090e03.jpg" width="200" />  
+
+<img alt="picture 246" src="images/ffa6ec951f80b83d9b5d00047d0acb02431644d4d29189c4c75e07cac5035b2a.jpg" width="200" />  
+
+<img alt="picture 247" src="images/caecb3fb1fa4762f1e6bd79b89595c0341138c45f908f32cbfed917884a496ad.jpg" width="200" />  
+
+<img alt="picture 248" src="images/d7e01f914ef4b6bfbef14b4d091d71afc277bb8f9be2407fecc32fae95544e59.jpg" width="200" />  
+
+
+<img alt="picture 249" src="images/20497b4846656ffe046be4ca4b4b35e9031b3b4f4da5b161784591abda7664a4.jpg" width="200" />  
+
+<img alt="picture 250" src="images/82d50bce7150fd89143143ccd4706f74cc4d6514d23c37380c4fc1780d2ab830.jpg" width="200" />  
+
+<img alt="picture 251" src="images/fdefd76c46191f120f7b9620ea5783dacb7fc0ac611919818cd5cf414033e4ea.jpg" width="200" />  
+
+<img alt="picture 252" src="images/adb2846b48e7fc7bd3e8c8d9f985eba8863d6e8ce4cc54ebce69ffb437510b13.jpg" width="200" />  
+
+<img alt="picture 253" src="images/5b75a63c11f526c31fd827ff17f1534558b333fe56bca614c2f74c50f418b880.jpg" width="200" />  
+
+<img alt="picture 254" src="images/1ab513729455f6b670a3b118e20f34a5eabec5234aa3f02318fcf153329e09d1.jpg" width="200" />  
+
+<img alt="picture 255" src="images/c9eb510ffb4f292ee341a2a639c463bb92845915b133b588e26ee490c2151b8b.jpg" width="200" />  
+
+<img alt="picture 256" src="images/9c26e231fef9a62da70db961aa2377ac1ef909c09070300222927026a8e6ebed.jpg" width="200" />  
+
+<img alt="picture 257" src="images/fa9729d6b795cb208c62426a0665304c3754b935d796cf4fd319bdfb5e247b05.jpg" width="200" />  
+
+<img alt="picture 258" src="images/872d3b812835ef553c616a196a0d89824d3bde59e6530f77d462af379e0fd9fc.jpg" width="200" />  
+
+<img alt="picture 259" src="images/caca4f94dd7e640650ecd8e070d7e73977333f4a267a71c8086fd4fd11654c9f.jpg" width="200" />  
+
+
+
+
+# まとめ　
 
 高温障害に関してはまさに農業全体で直面している問題であり、高温に耐えられる品種が出回るまでは各自空調の稼働により対処していくしかないのが残念ではある。
 もし解決できる方法が見つかればまた筆をとろうと思う。
@@ -1089,14 +1219,10 @@ LED照明ユニットは一般店舗で販売されていないがキットに�
 もし、このことが我々の食生活を深刻に脅かすことになっても何とか生きられるように。
 検証を続けていこうと思う。
 
-願わくばこれが、滅びた民族の遺稿とならないことを…
 
 
 # 引用資料
 
-タコピーの原罪　https://www.tbs.co.jp/anime/takopi_project/
-
-ガンダム0083 STARDUST MEMORY https://www.gundam0083.net/index.html
 
 busyoucow,「宇宙栽培試行のための発芽試験記録」Journal of SpaceFarm Vol.2 2025-1, 秘密結社オープンフォース, 2025
 
