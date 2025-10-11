@@ -983,7 +983,7 @@ LED照明ユニット100Vは動作確認のため栽培ロボットとは別にA
 
 <img alt="picture 191" src="images/a08cdd69825fa66c6d003c911017a447787ad8ff13fab40aeb172a8e0bdc58df.jpg" width="200" />  
 
-新しい豆苗の話は、またの機会にしようと思う。
+新しい豆苗の話は、もう少し後にしようと思う。
 
 <img alt="picture 192" src="images/6ba66db4df884cbc9f87d2b60d0ace7660b1f5ff5f6f35732e3816344d7ce5f3.jpg" width="200" />  
 
@@ -1070,142 +1070,311 @@ LED照明ユニットは一般店舗で販売されていないがキットに�
 
 # ターン開始！栽培スタンバイ！
 
+前記の通り、豆苗の苗を新しくして次の栽培ターンに移行した。
+
 <img alt="picture 193" src="images/296ef0d6b507562b365394c859af3fa10c84cc711342613d2da1928e3b15a741.jpg" width="200" />  
+
+苗を使うため切除した葉茎は煮込んでおいしく頂く。
 
 <img alt="picture 194" src="images/bf97a951a7229f34034dfa4160593c85327f1e0f7a2606f6bca5965faeb65e46.jpg" width="200" />  
 
+今までと同様に栽培瓶へ苗をセットするが、LEDユニットのおかげで今までと違って見える。
+
 <img alt="picture 195" src="images/20b1d5bd45723245ff4f10767dfd890739bc4feb808ff88c968a192ef2003220.jpg" width="200" />  
+
+パイプジョイントが足りなかったため三又ジョイントを使用する。給水を二本のパイプに分けて行う形にした。
 
 <img alt="picture 196" src="images/ba399e684e33e8c1917190fe7b22f0f5e24cf368b93da714eb0737d3d3fa02aa.jpg" width="200" />  
 
+セットしてから4日経過したもの。
+
 <img alt="picture 197" src="images/c99cdb9a2614a8a7b039d4cb618709a0e36d8cb787863e06acdee8f8329fdace.jpg" width="200" />  
+
+この時点ではまだ元気だ。
 
 <img alt="picture 198" src="images/8c91aeff85da38cf36453065794447e6ea0087af7135edd12719e020820d38d6.jpg" width="200" />  
 
+一部の茎は長く伸びている。
+
 <img alt="picture 199" src="images/77b60e7fa235f8aa3426d58ade03fe43f01aa5ce1bdc0635fcf6324f00da39a5.jpg" width="200" />  
+
+根もまだ新鮮で白い。
 
 <img alt="picture 200" src="images/c0073fa115a0f342f58a5fa114148eb86be44f171ebf76ac252bdb0df32940cc.jpg" width="200" />  
 
+もう一つの苗も長く伸びている茎が確認できる。
+
 <img alt="picture 201" src="images/3cbdf18e877db8fe6208e71a1fe93fc724837e77bdb6b973a9c840903e5deb06.jpg" width="200" />  
+
+育て続ければ蔓となり花を咲かせるだろうか。
 
 <img alt="picture 202" src="images/f6614c81aada8c5cf62fe24c442ea8b25a29f1a91d176b16febb56e4d0a37d94.jpg" width="200" />  
 
+切り口もそれほど茶色くはなっていない。
+
 <img alt="picture 203" src="images/05b3d0ba3747052314ba7df78437490ae25e65fc7b8bfb5b4dbfb9b516d6aac7.jpg" width="200" />  
+
+もう排水口ネットを根が突き破っている。
 
 <img alt="picture 204" src="images/87bb3152d5b61fb071034df1800ad3a685cc6bab1e337bad017b0316971cd741.jpg" width="200" />  
 
+栽培瓶を洗って麦飯石もネットに入れてきれいにする。
+
 <img alt="picture 205" src="images/dc7a28f14e179746388783c8e85475740b790551256cb10b99ef27bec3ccca45.jpg" width="200" />  
+
+水量は抑えめなのであまり根が水につかない。
 
 <img alt="picture 206" src="images/596a8719aa57a95c4867635c0830dffcfcae63a1876dc7fde524f38b4b494bde.jpg" width="200" />  
 
+栽培一回目の収穫。
+
 <img alt="picture 207" src="images/1e364b5f319eb90d00a8bdb1157445f08cda5434b64b6bfeefcabefdae6f403e.jpg" width="200" />  
+
+成長点である茎の分け芽をとらないようにしたため伸びた茎が少し残っている。
 
 <img alt="picture 208" src="images/f2a0f0b5ffc7741f6f0173a1ead244e248537eb592434c9b5fb78369b57ab931.jpg" width="200" />  
 
+この状態でまた4日間家を空ける。
+
 <img alt="picture 209" src="images/a19d607f34c51bd2b4defc5edeec925ee7af7b837cd7bbb4b42d6ae388c14916.jpg" width="200" />  
+
+明かりは窓からの自然光と、在室時の蛍光灯及び以前使用した一灯LEDライトである。
 
 <img alt="picture 210" src="images/564f354dea8e0f199434c3bfbe54edca5668a826b1105b33d737bc06916141ee.jpg" width="200" />  
 
+家を空ける際は自然光のみとなる。
+
 <img alt="picture 211" src="images/402c4e7290050e720847a77e48eb8c6e37b59e40c30168eaf19996548d4a1dc1.jpg" width="200" />  
+
+基板のテストボタンを押して通水テスト。概ねうまくいっているようだ。
 
 <img alt="picture 212" src="images/bc26973854f2fb9a47516b3e65f37e6a870eb5aa20ccd686b884d626e74d112f.jpg" width="200" />  
 
+栽培瓶へと給水瓶から水が吸い出され、排水瓶に水が吐き出されていく。
+
 <img alt="picture 213" src="images/c9dfe22a44439a7f2b437dff83c12c5c26bc4234cf66a3fdf987a713bc8d9d6f.jpg" width="200" />  
+
+4日後排水瓶には水が大分溜まってきた。
 
 <img alt="picture 214" src="images/83c46028d0bfa7c660c225e9b80b051c29f5b71d3238530f7a53a71878c1c964.jpg" width="200" />  
 
+順調に成長しているようだ。
+
 <img alt="picture 215" src="images/48b3f8458d8937cbf2243345e71593501c143d54a9ff09cfe6b439d4713c6808.jpg" width="200" />  
+
+防虫ネットを外すと葉茎が勢いよく出てくる。
 
 <img alt="picture 216" src="images/6d244b084e33888818d16a3561c2a617e7c407dfe5e467d978f9a194f39ec961.jpg" width="200" />  
 
+伸びている葉茎の数が増えたように感じる。
+
 <img alt="picture 217" src="images/6e551d1bebdcd16fc33c33f595477977f9f23cc9344269313581bc348eba4a92.jpg" width="200" />  
+
+もはやあらゆる方向に葉茎は伸びカメラの画角に収まらない。
 
 <img alt="picture 218" src="images/866c7ab99044365df03a19ec0ee68c7de8a4bb2cc0915b19c17ca4e34c770b61.jpg" width="200" />  
 
+もう一つの苗も本数は増えている。
+
 <img alt="picture 219" src="images/8edeff6a45628ed4a6c813c3a55b44b2dc4f0e8b4f6cec2614766e3a76775f24.jpg" width="200" />  
+
+こちらは一方にまとまっているので、日照の関係があるかもしれない。
 
 <img alt="picture 220" src="images/47f59b632a8fbf330b863e74fef064de7589baa3487f1cf79d7d5e69eaa882c6.jpg" width="200" />  
 
+栽培2回目の収穫。
+
 <img alt="picture 221" src="images/f73cb725fc9e80bad2ce20f7d4a546c5006b5502f5721fd97b03df28cae24396.jpg" width="200" />  
+
+分け芽を切り取らないよう慎重に葉茎を切る。
 
 <img alt="picture 222" src="images/58e978cab48603031b8ba2c8e981e525acbb8f1e7436e1ced890c6accfab962b.jpg" width="200" />  
 
+葉が残っているため次も元気に育ってくれると期待したい。
+
 <img alt="picture 223" src="images/19c02f2ffa7ca5479edd1a0f692cd2a4ed5d0c3e0edbe22c717dfc031a930d92.jpg" width="200" />  
+
+栽培瓶に入れなおした時点で結構茂っているように見える。
 
 <img alt="picture 224" src="images/96cea10ddf2c06faad8152430cce4271997ec2f78f20f7df67acf813a0d98e7f.jpg" width="200" />  
 
+上から見ると茎が多いのでそこまでではないのだが。
+
 <img alt="picture 225" src="images/b9d3c38732074260dd0548a9740256674775d71c84b78c2abd988ac79c24a90c.jpg" width="200" />  
+
+また4日間家を空ける。元気に育ってほしい。
 
 <img alt="picture 226" src="images/25d507d70ffc1731b72cc7e803d5d6470cfb945b4b5c06cda23c1034067fa29c.jpg" width="200" />  
 
+4日後、排水瓶が溢れんばかりだ。
+
 <img alt="picture 227" src="images/66593a2c6c55486f2ac3b26e4a1e8f4f41bb5bb3f102c2e914120a467a391414.jpg" width="200" />  
+
+苗もまだ生命力を失っていない。
 
 <img alt="picture 228" src="images/13cb189d138ef24334b7ed7aafe91f742f2950a85f59e577d8385c6d9c62a2cd.jpg" width="200" />  
 
+このタイミングでL字型パイプジョイントを入手したので三又パイプジョイントと交換する。
+
 <img alt="picture 229" src="images/f02fdf65ab8b7678aa32d0fa6c25bb6d70ef6779200e5f57fe66f1fa02762b05.jpg" width="200" />  
+
+栽培瓶の底側に見えるのがL字パイプジョイントだ。
 
 <img alt="picture 230" src="images/5b33f5593a2f825987e6484813f9508647322073d9c2bb0ed39a0e641ffd892c.jpg" width="200" />  
 
+もはや何処に伸びようとしているかわからないくらいの成長だ。
+
 <img alt="picture 231" src="images/be427f1a747bf7c389c1d4cab1ad6ab16ad0b2a62822ed74334f00cebae37681.jpg" width="200" />  
+
+根もまだ新鮮だ。
 
 <img alt="picture 232" src="images/45e6905465233ec83fdc367fc38d50b60b6fee038375bc532cc2c4fa7799c11b.jpg" width="200" />  
 
+もう一つの苗は少し元気がない。
+
 <img alt="picture 233" src="images/f3ccf0ae5035540b49f7c95d3a9abdf5595e7b2b90a83f526de6bb4507f2fa7e.jpg" width="200" />  
+
+根が茶色くなりつつある。
 
 <img alt="picture 234" src="images/1bdaf23d2c943c9587d113b158341b66041134568aa141966be4a0f1d4b49fd2.jpg" width="200" />  
 
+それでも成長は止まらない。
+
 <img alt="picture 235" src="images/4252922657028e218c3da2b575fc0b446c115fd5233a034c29f722bd3a5400bb.jpg" width="200" />  
+
+栽培瓶と麦飯石を洗う。
 
 <img alt="picture 236" src="images/095269b8af786ea29c15faa1846f744ea7b57b6ded992f205df2a38f9b84d758.jpg" width="200" />  
 
+栽培3回目の収穫。
+
 <img alt="picture 237" src="images/c3acf6046e3dae1db91d28a357a622c4308b534f1810256fda9c433e5951b305.jpg" width="200" />  
 
+奇麗に切りそろえられた印象だ。
 
 <img alt="picture 238" src="images/b8260e5b43174b4d1689922a233c942dad71ca7e0a7262e3bd856a180467cb2f.jpg" width="200" />  
 
+上から見るとまだ生命の息吹を感じる。
+
 <img alt="picture 239" src="images/a9ba938a0ee99ff46f3c2df4e6377a84e382bf0aa462ee79bcdeb3f0af620150.jpg" width="200" />  
+
+しかし根は確実に茶色くなっている。分解すべきだろうか。
 
 <img alt="picture 240" src="images/5679a37013d245cf478082b6d8bcbeb1713fc57a75bcab0b053b49b6fa3440c1.jpg" width="200" />  
 
+もう一つの苗は切られても元気を失っていない。
+
 <img alt="picture 241" src="images/7abdb1026a45efc63f5ecca2b0cb4358e9f50b00946b34701af2cac83bdf9ad1.jpg" width="200" />  
+
+ここまで元気だと栽培瓶を分けるのも一手かもしれない。
 
 <img alt="picture 242" src="images/1dd63b096f773a3c4cc20105a09ab7081f8328166fc8ed8b13bd198212a641f3.jpg" width="200" />  
 
+根もまだ白さを残している。
+
 <img alt="picture 243" src="images/3068f5eefe95c238672a1a6358f67a31438fce72c1e383190549a63d1ba3b1b2.jpg" width="200" />  
+
+栽培ロボットのケースを開け通水テストを行う。
 
 <img alt="picture 244" src="images/83e13e647132e3173780514d7f4f0e3903682c7cf5efa33ef4b7a90abc93a737.jpg" width="200" />  
 
+今回は家を空けて3日間で帰ってこれた。まだ元気でいて欲しい。
+
 <img alt="picture 245" src="images/f54f0861770f1a43fedc5cf9cbf0948f556fbbd5f4568393f2c208dad3090e03.jpg" width="200" />  
+
+流石に生命力も落ちてきているのを感じる。
 
 <img alt="picture 246" src="images/ffa6ec951f80b83d9b5d00047d0acb02431644d4d29189c4c75e07cac5035b2a.jpg" width="200" />  
 
+でも、まだ枯れてはいない。総統からは早く区切りをつけろとの催促があるが…
+
 <img alt="picture 247" src="images/caecb3fb1fa4762f1e6bd79b89595c0341138c45f908f32cbfed917884a496ad.jpg" width="200" />  
+
+芽の伸び方に明らかに差が出てきた。
 
 <img alt="picture 248" src="images/d7e01f914ef4b6bfbef14b4d091d71afc277bb8f9be2407fecc32fae95544e59.jpg" width="200" />  
 
+根も黒く匂いもしてきた。水道水で洗うとき願いがかかる。
 
 <img alt="picture 249" src="images/20497b4846656ffe046be4ca4b4b35e9031b3b4f4da5b161784591abda7664a4.jpg" width="200" />  
 
+この状態でもまだ葉は光を受けようと必死だ。
+
 <img alt="picture 250" src="images/82d50bce7150fd89143143ccd4706f74cc4d6514d23c37380c4fc1780d2ab830.jpg" width="200" />  
+
+もう一つの苗も勢いはない。
 
 <img alt="picture 251" src="images/fdefd76c46191f120f7b9620ea5783dacb7fc0ac611919818cd5cf414033e4ea.jpg" width="200" />  
 
+根がまだ白さを残しているのが救いだ。
+
 <img alt="picture 252" src="images/adb2846b48e7fc7bd3e8c8d9f985eba8863d6e8ce4cc54ebce69ffb437510b13.jpg" width="200" />  
+
+数本の葉茎が頑張って伸びている。
 
 <img alt="picture 253" src="images/5b75a63c11f526c31fd827ff17f1534558b333fe56bca614c2f74c50f418b880.jpg" width="200" />  
 
+栽培瓶と麦飯石を洗いもう少しの生存を願う。
+
 <img alt="picture 254" src="images/1ab513729455f6b670a3b118e20f34a5eabec5234aa3f02318fcf153329e09d1.jpg" width="200" />  
+
+栽培4回目の収穫。
 
 <img alt="picture 255" src="images/c9eb510ffb4f292ee341a2a639c463bb92845915b133b588e26ee490c2151b8b.jpg" width="200" />  
 
+せめてあと一回は収穫したいものだ。
+
 <img alt="picture 256" src="images/9c26e231fef9a62da70db961aa2377ac1ef909c09070300222927026a8e6ebed.jpg" width="200" />  
+
+緑はまだ残っている。
 
 <img alt="picture 257" src="images/fa9729d6b795cb208c62426a0665304c3754b935d796cf4fd319bdfb5e247b05.jpg" width="200" />  
 
+祈るようにして家を空ける。
+
 <img alt="picture 258" src="images/872d3b812835ef553c616a196a0d89824d3bde59e6530f77d462af379e0fd9fc.jpg" width="200" />  
+
+収穫したぶんは水洗いし野菜炒めにした。
 
 <img alt="picture 259" src="images/caca4f94dd7e640650ecd8e070d7e73977333f4a267a71c8086fd4fd11654c9f.jpg" width="200" />  
 
+3日後戻ってくると部屋に匂いがした。
+
+<img alt="picture 260" src="images/ba34a44ccaabb288fce0c61d9329ddb86579806baaeb8de1161759dfae8ba5d5.jpg" width="200" />  
+
+明らかに栽培瓶の中は色が変わっている。
+
+<img alt="picture 261" src="images/aedab5b7aea6c8626cdd678128d034098a58d007104430f76990c9b206ecf8eb.jpg" width="200" />  
+
+まだ緑の部分は辛うじて残っているが…
+
+<img alt="picture 262" src="images/9af9325d6ea0be5c871936afb03d725ed43dc79a0a1a5ea68ae1e04362581925.jpg" width="200" />  
+
+成長が明らかに遅い。
+
+<img alt="picture 263" src="images/dd09c150a0632b6f8176e97288d8b49d88a3c9e8c95c01ae5938ff2a4c46c9b7.jpg" width="200" />  
+
+葉が少なくなっている。
+
+<img alt="picture 264" src="images/b2a8c8a684025c6a35dd284d63d3110592b8a05e5d41e311160022b1154f5ac3.jpg" width="200" />  
+
+苗も葉が減り茎ばかりになっていた。
+
+<img alt="picture 265" src="images/41dcc8ec7831fc46b75b3caccb620ab1804a1aa4badef720ab6f92aed177691c.jpg" width="200" />  
+
+根も全体的に茶色い。
+
+<img alt="picture 266" src="images/c1439c504b4e11a950988e9bb221ee1325fbbeb6610a7fabe94848ef8d436621.jpg" width="200" />  
+
+もう一つの苗は完全に役目を終えた感じだった。
+
+<img alt="picture 267" src="images/fe3865ad31fcfc42ca686e2d7aac18d0d0eb5324a4dbc01d256c8a3f9df13d48.jpg" width="200" />  
+
+もはや黒ずんできている。匂いもある。
+
+<img alt="picture 268" src="images/227c8fba6c25d23a6b4e9e9f70e46113afe12f656ea1061b89853f9b667ad331.jpg" width="200" />  
+
+今回の5回目収穫にて、栽培試験を終え残念だが苗は処分することとする。
 
 
 
